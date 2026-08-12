@@ -1,0 +1,1001 @@
+sale_id,sale_date,customer_id,product,category,quantity,price,store_id,payment_method
+10001,2026-05-21,C6618,Laptop,Computers,5,899.99,S003,Debit Card
+10002,2026-01-30,C5189,Wireless Mouse,Accessories,4,24.99,S005,Cash
+10003,2026-06-03,C4115,USB Hub,Accessories,4,34.99,S001,Cash
+10004,2026-04-22,C3310,External SSD,Storage,4,129.99,S004,Cash
+10005,2026-02-07,C2279,Laptop,Computers,3,899.99,S004,Cash
+10006,2026-06-25,C3763,Keyboard,Accessories,2,49.99,S005,Cash
+10007,2026-02-23,C9559,USB-C Cable,Accessories,4,14.99,S005,Mobile Payment
+10008,2026-03-25,C3366,USB-C Cable,Accessories,2,14.99,S005,Cash
+10009,2026-01-09,C5843,Webcam,Electronics,3,79.99,S001,Credit Card
+10010,2026-04-07,C8707,Keyboard,Accessories,1,49.99,S001,Mobile Payment
+10011,2026-03-08,C9934,Headphones,Electronics,4,99.99,S005,Credit Card
+10012,2026-03-20,C9898,Headphones,Electronics,3,99.99,S004,Debit Card
+10013,2026-07-06,C4634,Laptop,Computers,2,899.99,S005,Debit Card
+10014,2026-07-28,C5473,USB Hub,Accessories,3,34.99,S002,Credit Card
+10015,2026-04-18,C6919,Headphones,Electronics,2,99.99,S005,Debit Card
+10016,2026-01-07,C8575,Laptop Stand,Accessories,3,39.99,S003,Mobile Payment
+10017,2026-04-24,C7391,Monitor,Electronics,3,249.99,S002,Debit Card
+10018,2026-04-30,C9365,USB Hub,Accessories,2,34.99,S003,Cash
+10019,2026-05-20,C3040,Monitor,Electronics,3,249.99,S003,Mobile Payment
+10020,2026-06-16,C2108,Laptop Stand,Accessories,1,39.99,S003,Debit Card
+10021,2026-04-30,C6991,External SSD,Storage,4,129.99,S004,Debit Card
+10022,2026-06-19,C8577,Laptop Stand,Accessories,2,39.99,S003,Credit Card
+10023,2026-05-16,C5042,Laptop Stand,Accessories,5,39.99,S001,Cash
+10024,2026-04-16,C8725,USB Hub,Accessories,5,34.99,S004,Credit Card
+10025,2026-03-03,C8071,Monitor,Electronics,4,249.99,S002,Mobile Payment
+10026,2026-01-23,C7939,External SSD,Storage,2,129.99,S003,Mobile Payment
+10027,2026-03-10,C1663,External SSD,Storage,4,129.99,S001,Credit Card
+10028,2026-04-01,C4565,Keyboard,Accessories,5,49.99,S003,Mobile Payment
+10029,2026-06-13,C5815,Monitor,Electronics,1,249.99,S004,Mobile Payment
+10030,2026-01-28,C3523,Monitor,Electronics,5,249.99,S004,Mobile Payment
+10031,2026-05-25,C6959,Headphones,Electronics,4,99.99,S004,Debit Card
+10032,2026-01-06,C6932,Monitor,Electronics,1,249.99,S004,Credit Card
+10033,2026-05-18,C7413,Wireless Mouse,Accessories,2,24.99,S002,Debit Card
+10034,2026-01-14,C1863,Monitor,Electronics,2,249.99,S004,Credit Card
+10035,2026-05-15,C4091,Headphones,Electronics,2,99.99,S003,Mobile Payment
+10036,2026-01-16,C9294,External SSD,Storage,3,129.99,S003,Cash
+10037,2026-06-12,C4214,External SSD,Storage,3,129.99,S003,Credit Card
+10038,2026-07-14,C9083,USB-C Cable,Accessories,1,14.99,S003,Credit Card
+10039,2026-04-03,C2232,USB-C Cable,Accessories,5,14.99,S004,Debit Card
+10040,2026-05-20,C8738,USB Hub,Accessories,4,34.99,S001,Cash
+10041,2026-06-08,C7074,Wireless Mouse,Accessories,3,24.99,S004,Cash
+10042,2026-06-12,C1631,Headphones,Electronics,5,99.99,S002,Cash
+10043,2026-02-20,C5118,USB Hub,Accessories,5,34.99,S004,Debit Card
+10044,2026-03-08,C9254,Wireless Mouse,Accessories,1,24.99,S003,Credit Card
+10045,2026-06-07,C9862,Laptop,Computers,4,899.99,S004,Mobile Payment
+10046,2026-02-18,C4721,Webcam,Electronics,1,79.99,S001,Mobile Payment
+10047,2026-07-01,C5825,USB-C Cable,Accessories,3,14.99,S004,Credit Card
+10048,2026-05-08,C9442,Keyboard,Accessories,1,49.99,S001,Mobile Payment
+10049,2026-07-31,C5543,Wireless Mouse,Accessories,1,24.99,S002,Mobile Payment
+10050,2026-05-12,C2913,Webcam,Electronics,1,79.99,S001,Cash
+10051,2026-06-13,C9063,Keyboard,Accessories,5,49.99,S005,Mobile Payment
+10052,2026-01-10,C6297,USB-C Cable,Accessories,2,14.99,S005,Debit Card
+10053,2026-01-03,C5688,Headphones,Electronics,1,99.99,S001,Cash
+10054,2026-07-14,C3206,USB-C Cable,Accessories,3,14.99,S001,Cash
+10055,2026-05-29,C9472,Headphones,Electronics,3,99.99,S005,Debit Card
+10056,2026-03-05,C4581,Webcam,Electronics,4,79.99,S003,Credit Card
+10057,2026-05-16,C2358,Laptop Stand,Accessories,5,39.99,S003,Debit Card
+10058,2026-04-10,C3471,Headphones,Electronics,3,99.99,S002,Mobile Payment
+10059,2026-01-27,C7976,USB Hub,Accessories,1,34.99,S002,Mobile Payment
+10060,2026-01-23,C3387,Laptop,Computers,4,899.99,S004,Mobile Payment
+10061,2026-07-18,C6049,Keyboard,Accessories,4,49.99,S005,Mobile Payment
+10062,2026-06-16,C8102,Laptop,Computers,5,899.99,S002,Debit Card
+10063,2026-04-18,C3753,Keyboard,Accessories,3,49.99,S001,Cash
+10064,2026-03-09,C7256,USB Hub,Accessories,2,34.99,S005,Debit Card
+10065,2026-07-18,C4106,USB Hub,Accessories,2,34.99,S004,Debit Card
+10066,2026-07-19,C1828,External SSD,Storage,3,129.99,S005,Debit Card
+10067,2026-02-26,C7939,Wireless Mouse,Accessories,5,24.99,S005,Debit Card
+10068,2026-01-19,C1946,Laptop Stand,Accessories,1,39.99,S003,Credit Card
+10069,2026-05-20,C3624,Wireless Mouse,Accessories,4,24.99,S002,Mobile Payment
+10070,2026-03-20,C8607,Wireless Mouse,Accessories,3,24.99,S002,Cash
+10071,2026-06-25,C8523,Monitor,Electronics,5,249.99,S004,Debit Card
+10072,2026-07-11,C1114,Keyboard,Accessories,5,49.99,S001,Debit Card
+10073,2026-03-24,C9339,Laptop Stand,Accessories,2,39.99,S004,Cash
+10074,2026-05-12,C1741,Laptop,Computers,3,899.99,S001,Mobile Payment
+10075,2026-07-05,C2559,Keyboard,Accessories,3,49.99,S005,Debit Card
+10076,2026-05-11,C8967,Wireless Mouse,Accessories,3,24.99,S002,Credit Card
+10077,2026-02-16,C2303,Laptop,Computers,1,899.99,S003,Cash
+10078,2026-03-21,C8917,Keyboard,Accessories,5,49.99,S001,Debit Card
+10079,2026-04-02,C2473,Monitor,Electronics,4,249.99,S005,Mobile Payment
+10080,2026-01-07,C7987,USB-C Cable,Accessories,3,14.99,S005,Mobile Payment
+10081,2026-02-22,C6243,Wireless Mouse,Accessories,4,24.99,S003,Credit Card
+10082,2026-06-18,C8931,Laptop Stand,Accessories,1,39.99,S005,Credit Card
+10083,2026-02-26,C6244,External SSD,Storage,1,129.99,S005,Debit Card
+10084,2026-04-26,C2005,Keyboard,Accessories,4,49.99,S004,Cash
+10085,2026-01-04,C2689,External SSD,Storage,4,129.99,S003,Credit Card
+10086,2026-03-15,C4641,USB Hub,Accessories,3,34.99,S001,Cash
+10087,2026-02-17,C1809,Laptop,Computers,5,899.99,S005,Cash
+10088,2026-03-04,C9299,Webcam,Electronics,4,79.99,S003,Cash
+10089,2026-07-21,C7309,External SSD,Storage,4,129.99,S003,Cash
+10090,2026-05-16,C2561,Wireless Mouse,Accessories,3,24.99,S001,Debit Card
+10091,2026-03-20,C4384,Laptop Stand,Accessories,5,39.99,S003,Cash
+10092,2026-04-11,C7233,Wireless Mouse,Accessories,2,24.99,S002,Mobile Payment
+10093,2026-03-24,C1162,Monitor,Electronics,5,249.99,S001,Debit Card
+10094,2026-04-29,C9357,Keyboard,Accessories,3,49.99,S003,Cash
+10095,2026-07-28,C7318,Wireless Mouse,Accessories,3,24.99,S002,Cash
+10096,2026-05-17,C6346,Webcam,Electronics,2,79.99,S002,Cash
+10097,2026-06-06,C3699,Laptop Stand,Accessories,3,39.99,S003,Credit Card
+10098,2026-01-21,C7518,Webcam,Electronics,3,79.99,S002,Debit Card
+10099,2026-07-29,C9866,Wireless Mouse,Accessories,3,24.99,S004,Cash
+10100,2026-07-24,C8252,Headphones,Electronics,3,99.99,S001,Credit Card
+10101,2026-05-30,C3464,Laptop Stand,Accessories,2,39.99,S001,Cash
+10102,2026-05-25,C1095,Laptop,Computers,4,899.99,S001,Credit Card
+10103,2026-01-17,C4203,USB-C Cable,Accessories,2,14.99,S002,Debit Card
+10104,2026-03-20,C3764,External SSD,Storage,2,129.99,S005,Credit Card
+10105,2026-03-27,C2478,Wireless Mouse,Accessories,2,24.99,S001,Mobile Payment
+10106,2026-06-22,C6299,Headphones,Electronics,4,99.99,S001,Mobile Payment
+10107,2026-03-18,C6667,Wireless Mouse,Accessories,3,24.99,S004,Cash
+10108,2026-06-24,C3464,Monitor,Electronics,2,249.99,S005,Debit Card
+10109,2026-02-08,C4281,Laptop,Computers,3,899.99,S005,Credit Card
+10110,2026-07-16,C6438,Monitor,Electronics,2,249.99,S005,Credit Card
+10111,2026-03-02,C9372,Wireless Mouse,Accessories,1,24.99,S002,Mobile Payment
+10112,2026-05-20,C7386,USB-C Cable,Accessories,5,14.99,S005,Cash
+10113,2026-01-03,C8271,USB-C Cable,Accessories,3,14.99,S001,Mobile Payment
+10114,2026-05-26,C5640,USB-C Cable,Accessories,1,14.99,S003,Debit Card
+10115,2026-04-03,C6487,Laptop Stand,Accessories,3,39.99,S002,Credit Card
+10116,2026-05-26,C1466,USB-C Cable,Accessories,5,14.99,S005,Cash
+10117,2026-07-27,C8141,Webcam,Electronics,4,79.99,S002,Debit Card
+10118,2026-01-07,C3462,Laptop Stand,Accessories,4,39.99,S003,Mobile Payment
+10119,2026-04-10,C2467,USB Hub,Accessories,3,34.99,S005,Cash
+10120,2026-07-28,C7024,Wireless Mouse,Accessories,5,24.99,S002,Debit Card
+10121,2026-05-13,C1475,Webcam,Electronics,5,79.99,S003,Credit Card
+10122,2026-02-21,C9590,USB-C Cable,Accessories,5,14.99,S005,Debit Card
+10123,2026-06-23,C5698,USB-C Cable,Accessories,5,14.99,S005,Debit Card
+10124,2026-01-08,C5941,Monitor,Electronics,5,249.99,S003,Credit Card
+10125,2026-07-07,C7326,External SSD,Storage,1,129.99,S001,Credit Card
+10126,2026-07-19,C1347,Webcam,Electronics,3,79.99,S004,Credit Card
+10127,2026-06-20,C6368,Headphones,Electronics,4,99.99,S002,Debit Card
+10128,2026-07-16,C1087,External SSD,Storage,2,129.99,S004,Debit Card
+10129,2026-07-08,C1798,External SSD,Storage,2,129.99,S005,Credit Card
+10130,2026-01-15,C4591,External SSD,Storage,4,129.99,S001,Debit Card
+10131,2026-05-21,C4648,Webcam,Electronics,3,79.99,S002,Debit Card
+10132,2026-02-28,C4015,Laptop Stand,Accessories,4,39.99,S004,Cash
+10133,2026-01-07,C5092,USB-C Cable,Accessories,1,14.99,S004,Credit Card
+10134,2026-02-20,C5578,Laptop Stand,Accessories,1,39.99,S005,Cash
+10135,2026-03-02,C2587,Laptop Stand,Accessories,1,39.99,S001,Debit Card
+10136,2026-04-14,C1418,Laptop,Computers,1,899.99,S004,Mobile Payment
+10137,2026-02-13,C8847,Webcam,Electronics,5,79.99,S005,Debit Card
+10138,2026-03-29,C2482,Wireless Mouse,Accessories,4,24.99,S002,Cash
+10139,2026-04-05,C4931,Monitor,Electronics,5,249.99,S005,Debit Card
+10140,2026-04-28,C8734,USB Hub,Accessories,3,34.99,S003,Debit Card
+10141,2026-05-09,C7654,Headphones,Electronics,2,99.99,S001,Mobile Payment
+10142,2026-04-20,C8982,Monitor,Electronics,5,249.99,S004,Debit Card
+10143,2026-02-28,C3192,USB-C Cable,Accessories,4,14.99,S005,Debit Card
+10144,2026-04-30,C7082,Laptop,Computers,3,899.99,S004,Cash
+10145,2026-05-09,C1448,Laptop,Computers,1,899.99,S002,Mobile Payment
+10146,2026-06-15,C3424,External SSD,Storage,4,129.99,S003,Debit Card
+10147,2026-04-14,C4677,Webcam,Electronics,1,79.99,S002,Credit Card
+10148,2026-03-17,C3277,USB-C Cable,Accessories,1,14.99,S002,Debit Card
+10149,2026-03-17,C4035,USB-C Cable,Accessories,3,14.99,S005,Cash
+10150,2026-05-24,C3640,Headphones,Electronics,2,99.99,S005,Debit Card
+10151,2026-01-22,C3080,Laptop Stand,Accessories,3,39.99,S004,Mobile Payment
+10152,2026-06-02,C6846,USB Hub,Accessories,3,34.99,S002,Credit Card
+10153,2026-01-23,C9871,USB-C Cable,Accessories,5,14.99,S002,Debit Card
+10154,2026-02-17,C7611,Webcam,Electronics,2,79.99,S002,Debit Card
+10155,2026-04-23,C1795,Laptop,Computers,2,899.99,S003,Cash
+10156,2026-05-31,C6158,Monitor,Electronics,1,249.99,S002,Debit Card
+10157,2026-06-27,C6787,Webcam,Electronics,3,79.99,S001,Cash
+10158,2026-02-16,C4963,Headphones,Electronics,2,99.99,S002,Mobile Payment
+10159,2026-07-17,C6011,Laptop Stand,Accessories,4,39.99,S005,Debit Card
+10160,2026-01-09,C8626,Keyboard,Accessories,4,49.99,S005,Mobile Payment
+10161,2026-06-16,C9402,USB-C Cable,Accessories,1,14.99,S003,Credit Card
+10162,2026-07-31,C8335,Headphones,Electronics,2,99.99,S002,Credit Card
+10163,2026-04-02,C1756,Keyboard,Accessories,1,49.99,S002,Mobile Payment
+10164,2026-06-07,C4430,Webcam,Electronics,4,79.99,S005,Debit Card
+10165,2026-01-19,C3531,USB-C Cable,Accessories,2,14.99,S004,Credit Card
+10166,2026-04-25,C6457,Keyboard,Accessories,5,49.99,S002,Debit Card
+10167,2026-02-07,C8161,Laptop Stand,Accessories,4,39.99,S004,Credit Card
+10168,2026-03-20,C5236,USB Hub,Accessories,2,34.99,S005,Mobile Payment
+10169,2026-02-07,C4020,External SSD,Storage,1,129.99,S001,Debit Card
+10170,2026-04-02,C2615,Webcam,Electronics,1,79.99,S003,Credit Card
+10171,2026-01-18,C2514,Monitor,Electronics,5,249.99,S001,Credit Card
+10172,2026-01-23,C5244,Webcam,Electronics,2,79.99,S005,Credit Card
+10173,2026-05-10,C6620,Wireless Mouse,Accessories,4,24.99,S001,Mobile Payment
+10174,2026-07-17,C4599,Wireless Mouse,Accessories,3,24.99,S001,Mobile Payment
+10175,2026-04-06,C2191,External SSD,Storage,4,129.99,S003,Debit Card
+10176,2026-06-07,C7532,Webcam,Electronics,1,79.99,S005,Mobile Payment
+10177,2026-02-27,C5817,Monitor,Electronics,4,249.99,S001,Debit Card
+10178,2026-04-16,C8409,Laptop Stand,Accessories,3,39.99,S002,Cash
+10179,2026-03-03,C1690,Laptop,Computers,5,899.99,S005,Credit Card
+10180,2026-01-26,C1943,Monitor,Electronics,1,249.99,S005,Mobile Payment
+10181,2026-04-26,C6476,Headphones,Electronics,2,99.99,S003,Debit Card
+10182,2026-03-02,C3974,Laptop Stand,Accessories,5,39.99,S002,Cash
+10183,2026-06-28,C9216,Wireless Mouse,Accessories,2,24.99,S001,Mobile Payment
+10184,2026-03-29,C1747,Keyboard,Accessories,3,49.99,S004,Cash
+10185,2026-05-06,C2478,Headphones,Electronics,4,99.99,S003,Mobile Payment
+10186,2026-01-09,C6984,Monitor,Electronics,3,249.99,S005,Cash
+10187,2026-01-18,C2408,USB Hub,Accessories,1,34.99,S003,Cash
+10188,2026-04-19,C6050,Webcam,Electronics,1,79.99,S001,Mobile Payment
+10189,2026-01-11,C5650,Keyboard,Accessories,2,49.99,S004,Credit Card
+10190,2026-01-01,C2985,USB-C Cable,Accessories,3,14.99,S002,Debit Card
+10191,2026-01-25,C5525,Keyboard,Accessories,2,49.99,S003,Credit Card
+10192,2026-03-20,C5672,USB Hub,Accessories,4,34.99,S001,Debit Card
+10193,2026-06-16,C8057,Headphones,Electronics,3,99.99,S005,Cash
+10194,2026-02-19,C1289,Webcam,Electronics,3,79.99,S002,Cash
+10195,2026-03-22,C3999,USB-C Cable,Accessories,1,14.99,S004,Credit Card
+10196,2026-03-02,C6125,USB-C Cable,Accessories,4,14.99,S003,Cash
+10197,2026-04-27,C7113,Laptop Stand,Accessories,3,39.99,S001,Debit Card
+10198,2026-03-16,C7807,Webcam,Electronics,2,79.99,S004,Cash
+10199,2026-07-04,C5709,Wireless Mouse,Accessories,2,24.99,S004,Mobile Payment
+10200,2026-05-19,C2023,Laptop Stand,Accessories,2,39.99,S005,Mobile Payment
+10201,2026-04-02,C7565,Monitor,Electronics,5,249.99,S003,Cash
+10202,2026-05-23,C5127,USB Hub,Accessories,3,34.99,S005,Debit Card
+10203,2026-03-29,C1022,USB Hub,Accessories,5,34.99,S001,Debit Card
+10204,2026-03-18,C5333,USB-C Cable,Accessories,2,14.99,S001,Credit Card
+10205,2026-04-14,C3195,Laptop Stand,Accessories,5,39.99,S001,Debit Card
+10206,2026-01-24,C7629,Wireless Mouse,Accessories,5,24.99,S003,Cash
+10207,2026-05-18,C9815,Wireless Mouse,Accessories,5,24.99,S005,Cash
+10208,2026-03-05,C7506,External SSD,Storage,1,129.99,S002,Mobile Payment
+10209,2026-04-13,C4773,Laptop,Computers,5,899.99,S004,Credit Card
+10210,2026-03-09,C8099,Laptop,Computers,4,899.99,S003,Credit Card
+10211,2026-03-11,C9282,Keyboard,Accessories,3,49.99,S001,Debit Card
+10212,2026-05-02,C9103,USB Hub,Accessories,5,34.99,S005,Cash
+10213,2026-07-21,C3257,Keyboard,Accessories,2,49.99,S003,Mobile Payment
+10214,2026-07-28,C5957,Wireless Mouse,Accessories,4,24.99,S001,Credit Card
+10215,2026-03-07,C8868,Laptop,Computers,1,899.99,S002,Debit Card
+10216,2026-02-23,C5178,Laptop,Computers,3,899.99,S002,Cash
+10217,2026-07-18,C7404,External SSD,Storage,4,129.99,S003,Debit Card
+10218,2026-06-28,C9274,Headphones,Electronics,2,99.99,S004,Debit Card
+10219,2026-06-08,C8026,Keyboard,Accessories,5,49.99,S004,Debit Card
+10220,2026-05-09,C1600,Headphones,Electronics,4,99.99,S005,Cash
+10221,2026-02-25,C8497,Wireless Mouse,Accessories,3,24.99,S003,Mobile Payment
+10222,2026-05-26,C3906,Headphones,Electronics,1,99.99,S003,Mobile Payment
+10223,2026-07-20,C7178,Webcam,Electronics,5,79.99,S001,Mobile Payment
+10224,2026-03-12,C9395,Laptop Stand,Accessories,1,39.99,S002,Credit Card
+10225,2026-06-03,C1439,Webcam,Electronics,2,79.99,S002,Mobile Payment
+10226,2026-03-15,C1504,Laptop Stand,Accessories,1,39.99,S003,Cash
+10227,2026-05-28,C6668,USB-C Cable,Accessories,4,14.99,S002,Debit Card
+10228,2026-01-15,C9678,Headphones,Electronics,3,99.99,S004,Debit Card
+10229,2026-02-13,C4278,USB Hub,Accessories,5,34.99,S002,Debit Card
+10230,2026-02-22,C6411,Monitor,Electronics,2,249.99,S005,Credit Card
+10231,2026-03-05,C3405,External SSD,Storage,3,129.99,S001,Mobile Payment
+10232,2026-04-27,C9208,USB-C Cable,Accessories,2,14.99,S001,Cash
+10233,2026-04-16,C1804,Laptop,Computers,2,899.99,S001,Cash
+10234,2026-06-28,C6553,Webcam,Electronics,5,79.99,S003,Cash
+10235,2026-01-17,C9896,External SSD,Storage,5,129.99,S003,Debit Card
+10236,2026-07-15,C7626,USB-C Cable,Accessories,1,14.99,S001,Mobile Payment
+10237,2026-01-12,C7146,Monitor,Electronics,3,249.99,S003,Mobile Payment
+10238,2026-06-27,C8559,Laptop Stand,Accessories,1,39.99,S005,Credit Card
+10239,2026-04-04,C5649,External SSD,Storage,4,129.99,S005,Cash
+10240,2026-03-23,C2945,External SSD,Storage,4,129.99,S004,Debit Card
+10241,2026-01-18,C5163,Monitor,Electronics,3,249.99,S003,Cash
+10242,2026-05-16,C3325,Laptop Stand,Accessories,4,39.99,S001,Cash
+10243,2026-01-12,C3731,External SSD,Storage,1,129.99,S003,Cash
+10244,2026-02-15,C8991,Keyboard,Accessories,5,49.99,S003,Credit Card
+10245,2026-03-29,C8954,USB Hub,Accessories,5,34.99,S003,Mobile Payment
+10246,2026-03-01,C4357,Webcam,Electronics,3,79.99,S001,Debit Card
+10247,2026-06-05,C9633,Webcam,Electronics,4,79.99,S002,Mobile Payment
+10248,2026-07-21,C7223,USB-C Cable,Accessories,4,14.99,S005,Debit Card
+10249,2026-03-25,C3149,Wireless Mouse,Accessories,4,24.99,S004,Credit Card
+10250,2026-04-16,C6545,Keyboard,Accessories,4,49.99,S001,Mobile Payment
+10251,2026-07-14,C8829,USB-C Cable,Accessories,3,14.99,S005,Mobile Payment
+10252,2026-05-24,C9528,Webcam,Electronics,2,79.99,S003,Cash
+10253,2026-06-29,C6602,Wireless Mouse,Accessories,2,24.99,S003,Cash
+10254,2026-01-09,C5195,USB Hub,Accessories,3,34.99,S002,Debit Card
+10255,2026-07-03,C3979,Monitor,Electronics,4,249.99,S004,Credit Card
+10256,2026-04-28,C1003,Monitor,Electronics,4,249.99,S005,Debit Card
+10257,2026-05-30,C6468,USB-C Cable,Accessories,5,14.99,S005,Debit Card
+10258,2026-05-28,C3723,Laptop,Computers,1,899.99,S005,Cash
+10259,2026-07-26,C7041,Webcam,Electronics,5,79.99,S004,Cash
+10260,2026-04-05,C7306,Laptop Stand,Accessories,3,39.99,S001,Credit Card
+10261,2026-01-21,C3976,Laptop Stand,Accessories,3,39.99,S005,Mobile Payment
+10262,2026-05-20,C3245,Laptop Stand,Accessories,1,39.99,S002,Credit Card
+10263,2026-04-21,C4349,USB-C Cable,Accessories,1,14.99,S001,Mobile Payment
+10264,2026-02-14,C5154,Webcam,Electronics,2,79.99,S001,Mobile Payment
+10265,2026-01-06,C6550,USB-C Cable,Accessories,1,14.99,S001,Credit Card
+10266,2026-05-06,C4109,Headphones,Electronics,4,99.99,S001,Debit Card
+10267,2026-02-18,C1237,Wireless Mouse,Accessories,4,24.99,S003,Cash
+10268,2026-01-30,C4956,Monitor,Electronics,5,249.99,S001,Mobile Payment
+10269,2026-01-04,C5606,Webcam,Electronics,5,79.99,S004,Mobile Payment
+10270,2026-04-26,C5794,Headphones,Electronics,2,99.99,S004,Cash
+10271,2026-07-01,C6450,Laptop Stand,Accessories,3,39.99,S001,Mobile Payment
+10272,2026-03-10,C3878,Monitor,Electronics,2,249.99,S005,Debit Card
+10273,2026-06-05,C5373,Laptop Stand,Accessories,3,39.99,S003,Credit Card
+10274,2026-07-15,C8973,Monitor,Electronics,1,249.99,S004,Cash
+10275,2026-03-07,C1943,Webcam,Electronics,1,79.99,S001,Cash
+10276,2026-06-25,C2556,Headphones,Electronics,2,99.99,S005,Credit Card
+10277,2026-01-28,C4380,USB Hub,Accessories,5,34.99,S001,Mobile Payment
+10278,2026-01-08,C1814,Monitor,Electronics,2,249.99,S005,Credit Card
+10279,2026-02-01,C6813,Laptop Stand,Accessories,5,39.99,S002,Mobile Payment
+10280,2026-06-06,C7737,Keyboard,Accessories,2,49.99,S001,Mobile Payment
+10281,2026-01-20,C2683,Keyboard,Accessories,1,49.99,S002,Mobile Payment
+10282,2026-01-24,C5210,USB-C Cable,Accessories,4,14.99,S005,Mobile Payment
+10283,2026-05-30,C3438,External SSD,Storage,1,129.99,S005,Debit Card
+10284,2026-02-01,C9556,Laptop Stand,Accessories,3,39.99,S002,Mobile Payment
+10285,2026-01-18,C7635,Laptop,Computers,5,899.99,S003,Debit Card
+10286,2026-03-06,C3306,Webcam,Electronics,5,79.99,S004,Debit Card
+10287,2026-05-21,C4712,Laptop Stand,Accessories,2,39.99,S001,Debit Card
+10288,2026-03-24,C9691,Laptop,Computers,1,899.99,S001,Debit Card
+10289,2026-05-12,C6749,USB-C Cable,Accessories,2,14.99,S001,Credit Card
+10290,2026-01-12,C5431,Monitor,Electronics,3,249.99,S003,Debit Card
+10291,2026-06-07,C5687,Monitor,Electronics,2,249.99,S001,Credit Card
+10292,2026-05-03,C8887,Keyboard,Accessories,1,49.99,S003,Cash
+10293,2026-07-30,C9118,USB-C Cable,Accessories,3,14.99,S004,Cash
+10294,2026-07-14,C3376,Monitor,Electronics,1,249.99,S003,Cash
+10295,2026-04-05,C8703,USB Hub,Accessories,1,34.99,S001,Cash
+10296,2026-04-24,C8062,USB Hub,Accessories,2,34.99,S003,Cash
+10297,2026-06-21,C5293,Laptop Stand,Accessories,1,39.99,S005,Mobile Payment
+10298,2026-07-29,C9621,Wireless Mouse,Accessories,1,24.99,S004,Cash
+10299,2026-03-15,C1860,USB Hub,Accessories,4,34.99,S005,Cash
+10300,2026-05-18,C7524,External SSD,Storage,4,129.99,S004,Cash
+10301,2026-01-25,C2735,Wireless Mouse,Accessories,1,24.99,S005,Credit Card
+10302,2026-03-11,C6105,Wireless Mouse,Accessories,4,24.99,S004,Mobile Payment
+10303,2026-03-31,C1224,USB-C Cable,Accessories,1,14.99,S004,Cash
+10304,2026-07-15,C2241,Laptop,Computers,3,899.99,S004,Credit Card
+10305,2026-05-04,C4470,Keyboard,Accessories,2,49.99,S003,Cash
+10306,2026-02-07,C9767,Wireless Mouse,Accessories,2,24.99,S001,Mobile Payment
+10307,2026-06-19,C4839,Laptop,Computers,1,899.99,S003,Cash
+10308,2026-05-11,C2249,Webcam,Electronics,5,79.99,S003,Cash
+10309,2026-01-26,C8514,Webcam,Electronics,4,79.99,S005,Mobile Payment
+10310,2026-04-20,C6199,Laptop Stand,Accessories,4,39.99,S004,Debit Card
+10311,2026-07-22,C6691,Headphones,Electronics,3,99.99,S005,Cash
+10312,2026-03-07,C8721,USB Hub,Accessories,1,34.99,S005,Mobile Payment
+10313,2026-06-04,C1143,USB-C Cable,Accessories,2,14.99,S004,Mobile Payment
+10314,2026-02-14,C6845,Laptop Stand,Accessories,5,39.99,S004,Credit Card
+10315,2026-05-07,C2333,Webcam,Electronics,4,79.99,S005,Cash
+10316,2026-01-07,C6047,Monitor,Electronics,4,249.99,S005,Credit Card
+10317,2026-04-17,C5713,USB-C Cable,Accessories,3,14.99,S005,Debit Card
+10318,2026-02-18,C5481,Monitor,Electronics,1,249.99,S004,Debit Card
+10319,2026-04-30,C6792,Wireless Mouse,Accessories,3,24.99,S001,Mobile Payment
+10320,2026-03-21,C5469,USB Hub,Accessories,2,34.99,S004,Debit Card
+10321,2026-01-18,C9582,Webcam,Electronics,2,79.99,S003,Mobile Payment
+10322,2026-04-12,C1521,Monitor,Electronics,1,249.99,S001,Mobile Payment
+10323,2026-04-02,C5047,Wireless Mouse,Accessories,4,24.99,S002,Credit Card
+10324,2026-03-13,C6970,Laptop Stand,Accessories,3,39.99,S003,Cash
+10325,2026-06-07,C5536,Keyboard,Accessories,3,49.99,S001,Credit Card
+10326,2026-06-20,C6823,Monitor,Electronics,4,249.99,S005,Debit Card
+10327,2026-02-13,C4006,Monitor,Electronics,4,249.99,S002,Credit Card
+10328,2026-07-24,C3187,USB Hub,Accessories,3,34.99,S002,Cash
+10329,2026-07-30,C1512,USB-C Cable,Accessories,4,14.99,S004,Cash
+10330,2026-01-23,C7235,Headphones,Electronics,4,99.99,S004,Debit Card
+10331,2026-06-13,C7940,Laptop Stand,Accessories,4,39.99,S001,Cash
+10332,2026-02-22,C6588,Headphones,Electronics,3,99.99,S003,Debit Card
+10333,2026-04-03,C9467,USB-C Cable,Accessories,3,14.99,S001,Debit Card
+10334,2026-05-19,C5186,USB-C Cable,Accessories,5,14.99,S002,Debit Card
+10335,2026-03-25,C5531,Webcam,Electronics,5,79.99,S002,Debit Card
+10336,2026-06-25,C5466,Keyboard,Accessories,5,49.99,S003,Credit Card
+10337,2026-07-28,C5132,Wireless Mouse,Accessories,2,24.99,S001,Credit Card
+10338,2026-01-21,C6798,Keyboard,Accessories,2,49.99,S001,Debit Card
+10339,2026-05-15,C2410,Laptop Stand,Accessories,4,39.99,S005,Mobile Payment
+10340,2026-05-19,C2550,Wireless Mouse,Accessories,5,24.99,S001,Debit Card
+10341,2026-02-20,C5903,Laptop,Computers,4,899.99,S005,Credit Card
+10342,2026-07-18,C6865,Laptop Stand,Accessories,4,39.99,S002,Cash
+10343,2026-06-18,C6607,Laptop Stand,Accessories,5,39.99,S003,Cash
+10344,2026-04-26,C4107,USB-C Cable,Accessories,5,14.99,S003,Debit Card
+10345,2026-02-03,C3479,Headphones,Electronics,4,99.99,S005,Credit Card
+10346,2026-02-22,C7215,USB-C Cable,Accessories,3,14.99,S002,Debit Card
+10347,2026-03-18,C5791,Monitor,Electronics,3,249.99,S004,Mobile Payment
+10348,2026-06-24,C7322,USB-C Cable,Accessories,2,14.99,S003,Debit Card
+10349,2026-02-08,C2644,Headphones,Electronics,5,99.99,S004,Debit Card
+10350,2026-03-22,C9660,Laptop Stand,Accessories,3,39.99,S002,Mobile Payment
+10351,2026-01-05,C2555,Laptop,Computers,1,899.99,S001,Credit Card
+10352,2026-01-27,C8016,USB-C Cable,Accessories,2,14.99,S004,Credit Card
+10353,2026-06-13,C3940,Laptop Stand,Accessories,4,39.99,S004,Debit Card
+10354,2026-04-11,C9341,Webcam,Electronics,4,79.99,S001,Credit Card
+10355,2026-05-30,C5483,Wireless Mouse,Accessories,3,24.99,S004,Debit Card
+10356,2026-04-30,C4422,Headphones,Electronics,5,99.99,S005,Credit Card
+10357,2026-07-15,C9485,Keyboard,Accessories,3,49.99,S002,Credit Card
+10358,2026-04-17,C5253,Webcam,Electronics,4,79.99,S002,Credit Card
+10359,2026-04-23,C2418,Laptop Stand,Accessories,5,39.99,S005,Credit Card
+10360,2026-04-23,C1444,Wireless Mouse,Accessories,2,24.99,S003,Cash
+10361,2026-01-19,C6545,USB Hub,Accessories,2,34.99,S004,Debit Card
+10362,2026-06-06,C6988,Laptop Stand,Accessories,5,39.99,S002,Credit Card
+10363,2026-05-03,C3320,Wireless Mouse,Accessories,4,24.99,S005,Cash
+10364,2026-07-14,C2874,Headphones,Electronics,1,99.99,S004,Cash
+10365,2026-05-23,C5934,External SSD,Storage,5,129.99,S003,Debit Card
+10366,2026-07-04,C8028,Wireless Mouse,Accessories,1,24.99,S005,Mobile Payment
+10367,2026-05-17,C2239,Headphones,Electronics,1,99.99,S005,Credit Card
+10368,2026-06-13,C5241,Keyboard,Accessories,3,49.99,S005,Debit Card
+10369,2026-06-13,C3200,Webcam,Electronics,5,79.99,S001,Debit Card
+10370,2026-07-04,C2300,Wireless Mouse,Accessories,4,24.99,S001,Mobile Payment
+10371,2026-04-30,C9676,Webcam,Electronics,2,79.99,S002,Credit Card
+10372,2026-04-26,C2643,External SSD,Storage,4,129.99,S004,Credit Card
+10373,2026-06-09,C4413,Monitor,Electronics,5,249.99,S004,Mobile Payment
+10374,2026-03-07,C7261,Keyboard,Accessories,1,49.99,S003,Cash
+10375,2026-01-04,C4612,External SSD,Storage,3,129.99,S004,Cash
+10376,2026-03-31,C7721,Keyboard,Accessories,5,49.99,S005,Credit Card
+10377,2026-05-19,C5334,External SSD,Storage,5,129.99,S005,Cash
+10378,2026-06-07,C7432,Webcam,Electronics,2,79.99,S003,Cash
+10379,2026-05-25,C2396,External SSD,Storage,2,129.99,S004,Cash
+10380,2026-01-17,C1979,Webcam,Electronics,2,79.99,S002,Credit Card
+10381,2026-02-16,C1971,Webcam,Electronics,5,79.99,S003,Credit Card
+10382,2026-02-26,C6599,Wireless Mouse,Accessories,5,24.99,S002,Debit Card
+10383,2026-07-29,C6756,External SSD,Storage,3,129.99,S004,Cash
+10384,2026-06-30,C1845,Keyboard,Accessories,1,49.99,S002,Mobile Payment
+10385,2026-06-05,C5895,Webcam,Electronics,4,79.99,S005,Cash
+10386,2026-03-21,C6128,Headphones,Electronics,2,99.99,S001,Credit Card
+10387,2026-07-02,C4110,Laptop,Computers,5,899.99,S003,Debit Card
+10388,2026-03-08,C5763,USB Hub,Accessories,1,34.99,S001,Debit Card
+10389,2026-03-11,C9579,Keyboard,Accessories,1,49.99,S001,Cash
+10390,2026-02-27,C5143,External SSD,Storage,2,129.99,S001,Cash
+10391,2026-03-16,C2321,Wireless Mouse,Accessories,2,24.99,S002,Mobile Payment
+10392,2026-02-27,C2740,Laptop Stand,Accessories,3,39.99,S004,Mobile Payment
+10393,2026-05-20,C2936,Wireless Mouse,Accessories,3,24.99,S001,Credit Card
+10394,2026-07-02,C9221,Headphones,Electronics,2,99.99,S003,Credit Card
+10395,2026-02-24,C5732,External SSD,Storage,2,129.99,S002,Cash
+10396,2026-03-10,C8508,External SSD,Storage,2,129.99,S003,Cash
+10397,2026-05-21,C9512,Laptop,Computers,4,899.99,S001,Debit Card
+10398,2026-03-07,C3905,Wireless Mouse,Accessories,3,24.99,S001,Cash
+10399,2026-02-26,C4550,Wireless Mouse,Accessories,3,24.99,S005,Mobile Payment
+10400,2026-06-19,C5798,USB-C Cable,Accessories,5,14.99,S005,Credit Card
+10401,2026-05-31,C3930,Laptop,Computers,4,899.99,S005,Credit Card
+10402,2026-05-11,C7231,USB Hub,Accessories,3,34.99,S005,Credit Card
+10403,2026-04-19,C6596,External SSD,Storage,4,129.99,S003,Debit Card
+10404,2026-05-18,C7377,USB-C Cable,Accessories,1,14.99,S001,Cash
+10405,2026-03-15,C3085,External SSD,Storage,4,129.99,S005,Cash
+10406,2026-05-18,C9819,Wireless Mouse,Accessories,4,24.99,S001,Cash
+10407,2026-05-08,C5889,Monitor,Electronics,2,249.99,S002,Credit Card
+10408,2026-05-15,C2669,Laptop,Computers,3,899.99,S005,Cash
+10409,2026-07-16,C1122,External SSD,Storage,5,129.99,S004,Mobile Payment
+10410,2026-06-04,C6932,Laptop Stand,Accessories,2,39.99,S002,Credit Card
+10411,2026-01-22,C8659,External SSD,Storage,3,129.99,S003,Credit Card
+10412,2026-07-27,C3704,USB Hub,Accessories,5,34.99,S002,Cash
+10413,2026-04-30,C8884,External SSD,Storage,5,129.99,S002,Credit Card
+10414,2026-05-06,C6435,USB-C Cable,Accessories,2,14.99,S002,Cash
+10415,2026-07-29,C2562,Laptop Stand,Accessories,1,39.99,S005,Mobile Payment
+10416,2026-01-20,C7471,Laptop,Computers,4,899.99,S002,Debit Card
+10417,2026-03-11,C8311,Laptop Stand,Accessories,3,39.99,S004,Cash
+10418,2026-02-11,C4026,External SSD,Storage,3,129.99,S001,Credit Card
+10419,2026-02-07,C9466,Laptop Stand,Accessories,5,39.99,S001,Mobile Payment
+10420,2026-02-06,C2554,Laptop Stand,Accessories,1,39.99,S003,Debit Card
+10421,2026-04-07,C7961,External SSD,Storage,5,129.99,S004,Debit Card
+10422,2026-04-22,C8670,Keyboard,Accessories,1,49.99,S005,Mobile Payment
+10423,2026-03-16,C8241,Laptop,Computers,5,899.99,S002,Credit Card
+10424,2026-01-21,C2555,Monitor,Electronics,4,249.99,S004,Debit Card
+10425,2026-01-12,C6583,Laptop,Computers,2,899.99,S005,Cash
+10426,2026-02-15,C8977,Laptop Stand,Accessories,2,39.99,S001,Cash
+10427,2026-05-23,C6430,Keyboard,Accessories,2,49.99,S005,Mobile Payment
+10428,2026-06-16,C2933,External SSD,Storage,5,129.99,S004,Debit Card
+10429,2026-01-30,C5411,Keyboard,Accessories,5,49.99,S004,Debit Card
+10430,2026-05-19,C5862,Laptop Stand,Accessories,2,39.99,S001,Mobile Payment
+10431,2026-07-07,C1442,Laptop Stand,Accessories,1,39.99,S002,Credit Card
+10432,2026-01-06,C5126,Laptop Stand,Accessories,5,39.99,S003,Credit Card
+10433,2026-06-06,C8423,USB-C Cable,Accessories,3,14.99,S004,Debit Card
+10434,2026-01-23,C3833,USB-C Cable,Accessories,3,14.99,S002,Credit Card
+10435,2026-02-09,C7530,Wireless Mouse,Accessories,1,24.99,S001,Cash
+10436,2026-03-17,C6052,Laptop,Computers,1,899.99,S003,Credit Card
+10437,2026-02-04,C5580,Keyboard,Accessories,5,49.99,S004,Debit Card
+10438,2026-04-22,C3015,Monitor,Electronics,2,249.99,S001,Credit Card
+10439,2026-01-16,C4171,Headphones,Electronics,3,99.99,S001,Credit Card
+10440,2026-01-20,C9102,Laptop Stand,Accessories,3,39.99,S003,Debit Card
+10441,2026-03-30,C6285,Keyboard,Accessories,3,49.99,S001,Debit Card
+10442,2026-07-19,C2689,Keyboard,Accessories,3,49.99,S003,Cash
+10443,2026-01-27,C7601,Laptop,Computers,2,899.99,S003,Cash
+10444,2026-02-02,C1830,Laptop Stand,Accessories,5,39.99,S004,Credit Card
+10445,2026-03-31,C9029,External SSD,Storage,4,129.99,S002,Debit Card
+10446,2026-03-21,C9364,Wireless Mouse,Accessories,1,24.99,S003,Debit Card
+10447,2026-07-29,C9974,USB-C Cable,Accessories,4,14.99,S005,Mobile Payment
+10448,2026-04-10,C9287,Laptop,Computers,1,899.99,S003,Debit Card
+10449,2026-06-13,C2514,External SSD,Storage,1,129.99,S004,Credit Card
+10450,2026-05-28,C9617,Wireless Mouse,Accessories,5,24.99,S002,Cash
+10451,2026-06-25,C7497,USB-C Cable,Accessories,3,14.99,S004,Mobile Payment
+10452,2026-05-19,C2273,USB Hub,Accessories,1,34.99,S005,Cash
+10453,2026-03-09,C4340,Laptop Stand,Accessories,2,39.99,S001,Debit Card
+10454,2026-01-21,C1202,External SSD,Storage,4,129.99,S004,Debit Card
+10455,2026-04-09,C7346,External SSD,Storage,1,129.99,S001,Cash
+10456,2026-01-17,C8508,USB-C Cable,Accessories,3,14.99,S004,Debit Card
+10457,2026-02-13,C1269,Laptop Stand,Accessories,5,39.99,S001,Credit Card
+10458,2026-06-24,C2366,Laptop Stand,Accessories,4,39.99,S004,Mobile Payment
+10459,2026-02-24,C6098,Laptop,Computers,3,899.99,S005,Debit Card
+10460,2026-07-17,C5366,Keyboard,Accessories,1,49.99,S003,Cash
+10461,2026-02-09,C4094,Monitor,Electronics,4,249.99,S003,Credit Card
+10462,2026-01-06,C6812,Laptop,Computers,4,899.99,S004,Mobile Payment
+10463,2026-04-12,C6657,USB Hub,Accessories,2,34.99,S003,Debit Card
+10464,2026-03-25,C4984,Webcam,Electronics,4,79.99,S001,Mobile Payment
+10465,2026-03-04,C5992,Wireless Mouse,Accessories,2,24.99,S002,Credit Card
+10466,2026-05-10,C3521,Laptop,Computers,5,899.99,S003,Mobile Payment
+10467,2026-04-07,C3282,Webcam,Electronics,1,79.99,S002,Cash
+10468,2026-03-14,C6664,Laptop,Computers,2,899.99,S002,Debit Card
+10469,2026-01-31,C3400,Laptop,Computers,2,899.99,S001,Cash
+10470,2026-02-03,C4292,Laptop Stand,Accessories,5,39.99,S002,Debit Card
+10471,2026-03-29,C3440,Wireless Mouse,Accessories,4,24.99,S002,Cash
+10472,2026-06-06,C1667,Laptop Stand,Accessories,4,39.99,S001,Credit Card
+10473,2026-04-01,C6346,USB Hub,Accessories,2,34.99,S001,Mobile Payment
+10474,2026-05-11,C6002,External SSD,Storage,1,129.99,S002,Credit Card
+10475,2026-02-24,C1587,USB-C Cable,Accessories,5,14.99,S001,Debit Card
+10476,2026-05-11,C5314,Monitor,Electronics,1,249.99,S004,Mobile Payment
+10477,2026-06-24,C8998,Webcam,Electronics,2,79.99,S001,Debit Card
+10478,2026-05-27,C6171,Headphones,Electronics,4,99.99,S002,Credit Card
+10479,2026-05-26,C4032,USB-C Cable,Accessories,1,14.99,S002,Credit Card
+10480,2026-07-22,C8845,Webcam,Electronics,2,79.99,S005,Credit Card
+10481,2026-05-28,C9744,USB-C Cable,Accessories,1,14.99,S003,Credit Card
+10482,2026-03-02,C2419,Webcam,Electronics,3,79.99,S001,Debit Card
+10483,2026-05-17,C1825,Keyboard,Accessories,4,49.99,S003,Credit Card
+10484,2026-03-30,C4493,Monitor,Electronics,4,249.99,S003,Credit Card
+10485,2026-03-21,C3543,External SSD,Storage,2,129.99,S003,Debit Card
+10486,2026-07-13,C6814,Headphones,Electronics,4,99.99,S002,Cash
+10487,2026-02-04,C5038,Laptop,Computers,3,899.99,S001,Cash
+10488,2026-05-02,C2231,USB Hub,Accessories,1,34.99,S001,Credit Card
+10489,2026-01-20,C9513,Keyboard,Accessories,3,49.99,S005,Mobile Payment
+10490,2026-01-13,C3782,USB Hub,Accessories,1,34.99,S005,Credit Card
+10491,2026-05-31,C1276,Headphones,Electronics,1,99.99,S004,Mobile Payment
+10492,2026-03-23,C7129,External SSD,Storage,3,129.99,S003,Cash
+10493,2026-06-02,C2811,Wireless Mouse,Accessories,3,24.99,S002,Debit Card
+10494,2026-01-19,C7671,Wireless Mouse,Accessories,3,24.99,S002,Mobile Payment
+10495,2026-07-28,C1998,USB Hub,Accessories,3,34.99,S001,Mobile Payment
+10496,2026-07-28,C3513,Laptop Stand,Accessories,1,39.99,S002,Mobile Payment
+10497,2026-05-25,C6672,Keyboard,Accessories,2,49.99,S003,Debit Card
+10498,2026-05-05,C7743,Monitor,Electronics,5,249.99,S003,Credit Card
+10499,2026-01-31,C3125,USB-C Cable,Accessories,4,14.99,S002,Debit Card
+10500,2026-05-23,C9369,Laptop,Computers,1,899.99,S003,Debit Card
+10501,2026-01-25,C8667,USB Hub,Accessories,4,34.99,S005,Debit Card
+10502,2026-06-28,C6604,External SSD,Storage,2,129.99,S004,Mobile Payment
+10503,2026-06-27,C7175,Headphones,Electronics,3,99.99,S001,Cash
+10504,2026-04-15,C4808,Keyboard,Accessories,1,49.99,S001,Cash
+10505,2026-03-13,C3502,Wireless Mouse,Accessories,5,24.99,S005,Credit Card
+10506,2026-07-11,C9840,Keyboard,Accessories,1,49.99,S005,Mobile Payment
+10507,2026-03-02,C2004,Webcam,Electronics,3,79.99,S001,Debit Card
+10508,2026-07-31,C1476,Headphones,Electronics,1,99.99,S003,Mobile Payment
+10509,2026-03-10,C3764,Wireless Mouse,Accessories,3,24.99,S003,Debit Card
+10510,2026-04-01,C3665,Webcam,Electronics,1,79.99,S001,Cash
+10511,2026-02-08,C4862,Monitor,Electronics,5,249.99,S003,Credit Card
+10512,2026-04-20,C6172,USB Hub,Accessories,1,34.99,S003,Mobile Payment
+10513,2026-04-22,C4413,Webcam,Electronics,2,79.99,S002,Cash
+10514,2026-06-12,C7562,Webcam,Electronics,4,79.99,S004,Mobile Payment
+10515,2026-02-06,C3837,Monitor,Electronics,5,249.99,S001,Credit Card
+10516,2026-02-13,C5421,Keyboard,Accessories,3,49.99,S003,Cash
+10517,2026-02-14,C5323,Wireless Mouse,Accessories,5,24.99,S003,Cash
+10518,2026-03-21,C6044,Wireless Mouse,Accessories,1,24.99,S005,Mobile Payment
+10519,2026-06-06,C2282,Keyboard,Accessories,3,49.99,S002,Credit Card
+10520,2026-03-10,C1455,Laptop,Computers,5,899.99,S003,Debit Card
+10521,2026-03-17,C2344,Laptop Stand,Accessories,4,39.99,S003,Debit Card
+10522,2026-01-07,C9223,Wireless Mouse,Accessories,3,24.99,S001,Debit Card
+10523,2026-01-21,C5361,Laptop Stand,Accessories,5,39.99,S001,Mobile Payment
+10524,2026-05-21,C5139,Monitor,Electronics,4,249.99,S005,Debit Card
+10525,2026-05-20,C5509,Headphones,Electronics,5,99.99,S001,Mobile Payment
+10526,2026-03-01,C4771,USB Hub,Accessories,4,34.99,S004,Credit Card
+10527,2026-01-24,C4888,Wireless Mouse,Accessories,3,24.99,S002,Mobile Payment
+10528,2026-01-24,C9166,Laptop Stand,Accessories,4,39.99,S001,Credit Card
+10529,2026-06-11,C4805,Laptop Stand,Accessories,2,39.99,S003,Debit Card
+10530,2026-05-13,C5348,Headphones,Electronics,1,99.99,S002,Mobile Payment
+10531,2026-07-20,C2352,Laptop Stand,Accessories,4,39.99,S003,Debit Card
+10532,2026-05-30,C2301,Monitor,Electronics,2,249.99,S004,Debit Card
+10533,2026-07-16,C9272,USB-C Cable,Accessories,4,14.99,S005,Credit Card
+10534,2026-05-20,C9017,Headphones,Electronics,2,99.99,S003,Mobile Payment
+10535,2026-07-16,C9877,Laptop,Computers,3,899.99,S004,Credit Card
+10536,2026-04-02,C5533,Headphones,Electronics,2,99.99,S002,Mobile Payment
+10537,2026-05-30,C4536,External SSD,Storage,3,129.99,S003,Cash
+10538,2026-07-31,C9434,Webcam,Electronics,3,79.99,S001,Credit Card
+10539,2026-01-05,C4898,Webcam,Electronics,1,79.99,S005,Cash
+10540,2026-07-29,C1548,Laptop Stand,Accessories,2,39.99,S001,Cash
+10541,2026-07-14,C5234,Keyboard,Accessories,2,49.99,S005,Cash
+10542,2026-04-02,C2901,Laptop,Computers,3,899.99,S003,Credit Card
+10543,2026-07-18,C5535,Monitor,Electronics,3,249.99,S002,Credit Card
+10544,2026-07-06,C2202,Webcam,Electronics,5,79.99,S002,Credit Card
+10545,2026-06-07,C1797,USB-C Cable,Accessories,3,14.99,S004,Debit Card
+10546,2026-06-16,C7318,Webcam,Electronics,3,79.99,S002,Credit Card
+10547,2026-05-14,C4403,Keyboard,Accessories,1,49.99,S004,Credit Card
+10548,2026-01-04,C8517,Wireless Mouse,Accessories,2,24.99,S001,Mobile Payment
+10549,2026-05-05,C2939,Laptop,Computers,2,899.99,S005,Cash
+10550,2026-04-17,C4601,Headphones,Electronics,3,99.99,S005,Mobile Payment
+10551,2026-04-24,C7468,External SSD,Storage,4,129.99,S001,Mobile Payment
+10552,2026-03-01,C2345,Webcam,Electronics,5,79.99,S003,Debit Card
+10553,2026-02-24,C2348,USB-C Cable,Accessories,5,14.99,S004,Mobile Payment
+10554,2026-04-20,C9601,USB-C Cable,Accessories,3,14.99,S004,Debit Card
+10555,2026-07-17,C3481,External SSD,Storage,2,129.99,S001,Mobile Payment
+10556,2026-04-18,C7116,External SSD,Storage,5,129.99,S001,Debit Card
+10557,2026-05-21,C4323,Keyboard,Accessories,1,49.99,S001,Mobile Payment
+10558,2026-03-31,C2856,USB-C Cable,Accessories,2,14.99,S005,Debit Card
+10559,2026-04-13,C6956,External SSD,Storage,3,129.99,S002,Mobile Payment
+10560,2026-07-30,C6322,Webcam,Electronics,5,79.99,S003,Debit Card
+10561,2026-05-30,C8418,Laptop Stand,Accessories,4,39.99,S003,Debit Card
+10562,2026-05-24,C2579,Wireless Mouse,Accessories,5,24.99,S003,Mobile Payment
+10563,2026-01-11,C4085,External SSD,Storage,3,129.99,S001,Debit Card
+10564,2026-03-16,C6021,Headphones,Electronics,5,99.99,S003,Credit Card
+10565,2026-02-20,C4107,Headphones,Electronics,5,99.99,S003,Mobile Payment
+10566,2026-07-12,C7994,External SSD,Storage,5,129.99,S002,Debit Card
+10567,2026-04-04,C7444,Webcam,Electronics,3,79.99,S005,Mobile Payment
+10568,2026-04-16,C9731,Wireless Mouse,Accessories,1,24.99,S004,Mobile Payment
+10569,2026-04-13,C5203,External SSD,Storage,4,129.99,S005,Mobile Payment
+10570,2026-04-23,C9384,USB-C Cable,Accessories,2,14.99,S004,Mobile Payment
+10571,2026-01-25,C3901,Keyboard,Accessories,2,49.99,S002,Debit Card
+10572,2026-02-27,C1515,Wireless Mouse,Accessories,3,24.99,S004,Debit Card
+10573,2026-04-16,C5905,Wireless Mouse,Accessories,4,24.99,S001,Credit Card
+10574,2026-05-19,C5925,Headphones,Electronics,1,99.99,S001,Cash
+10575,2026-07-12,C9583,Wireless Mouse,Accessories,2,24.99,S002,Cash
+10576,2026-02-10,C1346,Headphones,Electronics,3,99.99,S004,Cash
+10577,2026-02-02,C1983,USB-C Cable,Accessories,2,14.99,S005,Credit Card
+10578,2026-04-08,C1562,USB Hub,Accessories,3,34.99,S003,Credit Card
+10579,2026-07-22,C7678,Laptop Stand,Accessories,3,39.99,S004,Credit Card
+10580,2026-06-02,C2095,Laptop,Computers,3,899.99,S004,Mobile Payment
+10581,2026-05-07,C1170,Webcam,Electronics,2,79.99,S005,Credit Card
+10582,2026-05-26,C9412,Keyboard,Accessories,5,49.99,S005,Debit Card
+10583,2026-01-07,C7450,Headphones,Electronics,2,99.99,S001,Cash
+10584,2026-05-17,C6538,Keyboard,Accessories,1,49.99,S005,Cash
+10585,2026-07-19,C6329,External SSD,Storage,2,129.99,S004,Debit Card
+10586,2026-03-03,C1725,Monitor,Electronics,5,249.99,S001,Mobile Payment
+10587,2026-03-17,C3385,Webcam,Electronics,2,79.99,S002,Debit Card
+10588,2026-04-13,C8512,Headphones,Electronics,3,99.99,S004,Credit Card
+10589,2026-05-26,C9809,USB-C Cable,Accessories,4,14.99,S003,Cash
+10590,2026-06-09,C8605,Laptop Stand,Accessories,1,39.99,S005,Credit Card
+10591,2026-03-21,C9864,Monitor,Electronics,4,249.99,S004,Mobile Payment
+10592,2026-06-16,C7342,Wireless Mouse,Accessories,3,24.99,S002,Cash
+10593,2026-01-14,C5479,External SSD,Storage,5,129.99,S003,Credit Card
+10594,2026-01-23,C5793,External SSD,Storage,3,129.99,S002,Credit Card
+10595,2026-07-22,C7798,Laptop,Computers,4,899.99,S004,Cash
+10596,2026-03-30,C6055,External SSD,Storage,1,129.99,S003,Debit Card
+10597,2026-01-02,C5111,Keyboard,Accessories,5,49.99,S002,Mobile Payment
+10598,2026-07-17,C6370,USB Hub,Accessories,5,34.99,S002,Mobile Payment
+10599,2026-04-12,C3642,Monitor,Electronics,5,249.99,S001,Cash
+10600,2026-04-03,C2197,USB-C Cable,Accessories,4,14.99,S003,Credit Card
+10601,2026-05-07,C5052,Webcam,Electronics,5,79.99,S003,Credit Card
+10602,2026-07-21,C7737,Wireless Mouse,Accessories,1,24.99,S004,Mobile Payment
+10603,2026-06-03,C6787,Headphones,Electronics,2,99.99,S001,Credit Card
+10604,2026-03-24,C5931,Wireless Mouse,Accessories,2,24.99,S005,Debit Card
+10605,2026-04-02,C6879,USB Hub,Accessories,4,34.99,S002,Cash
+10606,2026-04-30,C6258,Headphones,Electronics,5,99.99,S001,Credit Card
+10607,2026-05-01,C8060,Headphones,Electronics,5,99.99,S002,Mobile Payment
+10608,2026-05-14,C8055,Headphones,Electronics,2,99.99,S005,Mobile Payment
+10609,2026-01-15,C6055,Headphones,Electronics,1,99.99,S002,Mobile Payment
+10610,2026-06-09,C8483,Laptop Stand,Accessories,5,39.99,S005,Debit Card
+10611,2026-04-18,C3662,USB-C Cable,Accessories,3,14.99,S001,Debit Card
+10612,2026-07-04,C7423,USB-C Cable,Accessories,1,14.99,S003,Credit Card
+10613,2026-07-31,C2237,Wireless Mouse,Accessories,1,24.99,S003,Cash
+10614,2026-04-27,C6302,Monitor,Electronics,2,249.99,S001,Mobile Payment
+10615,2026-01-15,C4207,Webcam,Electronics,4,79.99,S002,Debit Card
+10616,2026-07-01,C6557,Wireless Mouse,Accessories,2,24.99,S003,Cash
+10617,2026-04-16,C4127,Webcam,Electronics,5,79.99,S002,Mobile Payment
+10618,2026-05-29,C3940,Headphones,Electronics,5,99.99,S001,Mobile Payment
+10619,2026-03-31,C5131,Wireless Mouse,Accessories,3,24.99,S004,Mobile Payment
+10620,2026-05-12,C9694,USB-C Cable,Accessories,4,14.99,S003,Cash
+10621,2026-06-14,C3494,Laptop Stand,Accessories,1,39.99,S002,Debit Card
+10622,2026-06-13,C4132,Webcam,Electronics,2,79.99,S002,Credit Card
+10623,2026-07-22,C5395,USB Hub,Accessories,3,34.99,S004,Cash
+10624,2026-06-11,C7950,Laptop Stand,Accessories,4,39.99,S002,Debit Card
+10625,2026-07-24,C4894,USB-C Cable,Accessories,3,14.99,S004,Credit Card
+10626,2026-07-18,C9776,USB-C Cable,Accessories,3,14.99,S001,Cash
+10627,2026-04-28,C7897,Webcam,Electronics,5,79.99,S004,Mobile Payment
+10628,2026-07-19,C9058,Monitor,Electronics,5,249.99,S002,Debit Card
+10629,2026-03-12,C7091,USB-C Cable,Accessories,5,14.99,S004,Mobile Payment
+10630,2026-01-18,C3320,Headphones,Electronics,3,99.99,S004,Debit Card
+10631,2026-05-28,C1678,Laptop,Computers,2,899.99,S002,Mobile Payment
+10632,2026-02-21,C8956,Headphones,Electronics,2,99.99,S002,Mobile Payment
+10633,2026-02-19,C6095,USB Hub,Accessories,5,34.99,S005,Cash
+10634,2026-02-12,C4109,Webcam,Electronics,1,79.99,S003,Cash
+10635,2026-02-27,C5173,Keyboard,Accessories,4,49.99,S002,Cash
+10636,2026-07-18,C8659,USB Hub,Accessories,2,34.99,S005,Cash
+10637,2026-04-02,C6905,Laptop Stand,Accessories,3,39.99,S004,Debit Card
+10638,2026-04-17,C6649,External SSD,Storage,5,129.99,S004,Debit Card
+10639,2026-04-04,C6975,USB Hub,Accessories,4,34.99,S004,Credit Card
+10640,2026-02-06,C7681,USB-C Cable,Accessories,2,14.99,S004,Cash
+10641,2026-02-04,C8806,Laptop Stand,Accessories,4,39.99,S005,Mobile Payment
+10642,2026-06-26,C2149,Keyboard,Accessories,2,49.99,S002,Mobile Payment
+10643,2026-02-11,C4217,Keyboard,Accessories,3,49.99,S003,Debit Card
+10644,2026-06-03,C3040,Webcam,Electronics,1,79.99,S005,Credit Card
+10645,2026-04-01,C5593,Keyboard,Accessories,1,49.99,S005,Mobile Payment
+10646,2026-03-18,C6503,External SSD,Storage,3,129.99,S004,Credit Card
+10647,2026-05-12,C5343,Monitor,Electronics,3,249.99,S003,Credit Card
+10648,2026-03-27,C8569,Monitor,Electronics,3,249.99,S005,Credit Card
+10649,2026-07-24,C9572,Webcam,Electronics,1,79.99,S004,Mobile Payment
+10650,2026-02-19,C3843,Keyboard,Accessories,5,49.99,S003,Debit Card
+10651,2026-02-11,C3022,Webcam,Electronics,4,79.99,S002,Cash
+10652,2026-06-27,C9223,Monitor,Electronics,3,249.99,S002,Mobile Payment
+10653,2026-01-25,C4465,Wireless Mouse,Accessories,2,24.99,S004,Debit Card
+10654,2026-04-24,C8882,USB-C Cable,Accessories,1,14.99,S003,Credit Card
+10655,2026-03-07,C4695,Laptop Stand,Accessories,2,39.99,S002,Cash
+10656,2026-05-25,C9016,Keyboard,Accessories,1,49.99,S004,Debit Card
+10657,2026-07-09,C7191,Headphones,Electronics,1,99.99,S002,Debit Card
+10658,2026-01-13,C6002,USB Hub,Accessories,5,34.99,S003,Cash
+10659,2026-01-16,C5667,Wireless Mouse,Accessories,5,24.99,S005,Credit Card
+10660,2026-03-02,C3295,Monitor,Electronics,3,249.99,S004,Mobile Payment
+10661,2026-05-19,C4674,USB-C Cable,Accessories,1,14.99,S002,Cash
+10662,2026-03-12,C6441,Wireless Mouse,Accessories,5,24.99,S005,Debit Card
+10663,2026-02-01,C4224,Keyboard,Accessories,3,49.99,S002,Credit Card
+10664,2026-03-14,C2142,Keyboard,Accessories,5,49.99,S004,Mobile Payment
+10665,2026-06-07,C9350,USB-C Cable,Accessories,3,14.99,S005,Credit Card
+10666,2026-02-28,C1538,Webcam,Electronics,1,79.99,S005,Mobile Payment
+10667,2026-07-25,C7563,Monitor,Electronics,3,249.99,S001,Debit Card
+10668,2026-06-13,C7998,Keyboard,Accessories,2,49.99,S004,Debit Card
+10669,2026-02-19,C9972,Laptop,Computers,5,899.99,S003,Mobile Payment
+10670,2026-03-31,C2039,Headphones,Electronics,1,99.99,S005,Mobile Payment
+10671,2026-06-15,C4441,External SSD,Storage,5,129.99,S002,Debit Card
+10672,2026-05-20,C1907,USB-C Cable,Accessories,4,14.99,S002,Cash
+10673,2026-03-03,C1330,Headphones,Electronics,1,99.99,S005,Credit Card
+10674,2026-03-10,C8021,Headphones,Electronics,2,99.99,S002,Mobile Payment
+10675,2026-06-30,C4712,Keyboard,Accessories,1,49.99,S001,Mobile Payment
+10676,2026-03-09,C1338,Monitor,Electronics,5,249.99,S001,Credit Card
+10677,2026-06-24,C8126,Headphones,Electronics,3,99.99,S001,Credit Card
+10678,2026-04-06,C3810,USB-C Cable,Accessories,2,14.99,S005,Debit Card
+10679,2026-06-08,C7039,USB-C Cable,Accessories,3,14.99,S001,Cash
+10680,2026-03-10,C1942,External SSD,Storage,3,129.99,S003,Debit Card
+10681,2026-03-24,C5934,USB Hub,Accessories,2,34.99,S001,Debit Card
+10682,2026-05-18,C3363,Wireless Mouse,Accessories,2,24.99,S001,Cash
+10683,2026-01-23,C3740,Laptop,Computers,4,899.99,S005,Debit Card
+10684,2026-03-21,C7307,Keyboard,Accessories,3,49.99,S002,Credit Card
+10685,2026-07-21,C5078,External SSD,Storage,1,129.99,S001,Cash
+10686,2026-04-02,C1822,Laptop Stand,Accessories,1,39.99,S005,Mobile Payment
+10687,2026-04-17,C8727,USB Hub,Accessories,5,34.99,S002,Debit Card
+10688,2026-01-20,C1028,Keyboard,Accessories,4,49.99,S004,Mobile Payment
+10689,2026-07-26,C3570,Wireless Mouse,Accessories,1,24.99,S002,Cash
+10690,2026-03-20,C1120,Webcam,Electronics,3,79.99,S001,Cash
+10691,2026-02-27,C3397,Monitor,Electronics,1,249.99,S001,Debit Card
+10692,2026-02-04,C7737,Keyboard,Accessories,3,49.99,S004,Credit Card
+10693,2026-02-19,C6388,Laptop Stand,Accessories,4,39.99,S001,Credit Card
+10694,2026-01-17,C4846,External SSD,Storage,1,129.99,S002,Debit Card
+10695,2026-04-12,C5245,Wireless Mouse,Accessories,2,24.99,S001,Cash
+10696,2026-03-03,C2296,Laptop,Computers,1,899.99,S003,Debit Card
+10697,2026-06-23,C2026,USB-C Cable,Accessories,4,14.99,S003,Mobile Payment
+10698,2026-01-14,C5031,Wireless Mouse,Accessories,2,24.99,S003,Credit Card
+10699,2026-06-23,C1135,Laptop,Computers,3,899.99,S002,Cash
+10700,2026-04-19,C5463,Keyboard,Accessories,5,49.99,S001,Debit Card
+10701,2026-03-18,C3381,USB Hub,Accessories,4,34.99,S003,Debit Card
+10702,2026-02-24,C2584,Keyboard,Accessories,1,49.99,S001,Credit Card
+10703,2026-05-03,C2767,Keyboard,Accessories,1,49.99,S003,Debit Card
+10704,2026-06-08,C2426,USB-C Cable,Accessories,4,14.99,S002,Mobile Payment
+10705,2026-07-27,C6901,External SSD,Storage,4,129.99,S003,Cash
+10706,2026-01-28,C8363,Headphones,Electronics,1,99.99,S002,Debit Card
+10707,2026-06-26,C3702,Headphones,Electronics,1,99.99,S003,Mobile Payment
+10708,2026-07-25,C7210,Laptop Stand,Accessories,1,39.99,S002,Credit Card
+10709,2026-03-14,C9850,Wireless Mouse,Accessories,3,24.99,S005,Credit Card
+10710,2026-07-29,C9252,Laptop Stand,Accessories,3,39.99,S001,Mobile Payment
+10711,2026-02-13,C7687,External SSD,Storage,1,129.99,S003,Credit Card
+10712,2026-01-12,C5849,USB Hub,Accessories,2,34.99,S001,Mobile Payment
+10713,2026-04-02,C7721,External SSD,Storage,5,129.99,S004,Mobile Payment
+10714,2026-04-14,C8632,Wireless Mouse,Accessories,1,24.99,S004,Cash
+10715,2026-06-05,C6943,Headphones,Electronics,3,99.99,S001,Credit Card
+10716,2026-06-18,C5204,Headphones,Electronics,2,99.99,S004,Mobile Payment
+10717,2026-06-11,C8378,USB Hub,Accessories,5,34.99,S003,Mobile Payment
+10718,2026-06-05,C1236,Keyboard,Accessories,1,49.99,S003,Credit Card
+10719,2026-04-30,C1344,USB Hub,Accessories,1,34.99,S001,Mobile Payment
+10720,2026-06-01,C6322,Keyboard,Accessories,3,49.99,S002,Credit Card
+10721,2026-04-26,C6594,Monitor,Electronics,1,249.99,S003,Debit Card
+10722,2026-01-25,C3447,USB Hub,Accessories,2,34.99,S004,Credit Card
+10723,2026-06-17,C6346,Monitor,Electronics,3,249.99,S004,Credit Card
+10724,2026-04-12,C4752,Laptop,Computers,1,899.99,S003,Credit Card
+10725,2026-06-22,C7407,Laptop Stand,Accessories,3,39.99,S005,Mobile Payment
+10726,2026-04-24,C2309,USB Hub,Accessories,5,34.99,S005,Mobile Payment
+10727,2026-06-12,C2746,Webcam,Electronics,5,79.99,S005,Credit Card
+10728,2026-03-15,C6904,Wireless Mouse,Accessories,2,24.99,S003,Debit Card
+10729,2026-03-20,C6850,Monitor,Electronics,3,249.99,S002,Mobile Payment
+10730,2026-07-15,C9035,Webcam,Electronics,2,79.99,S003,Mobile Payment
+10731,2026-06-29,C3949,Keyboard,Accessories,5,49.99,S003,Debit Card
+10732,2026-05-19,C3969,Headphones,Electronics,4,99.99,S002,Cash
+10733,2026-07-07,C1383,Keyboard,Accessories,4,49.99,S002,Cash
+10734,2026-03-22,C9026,USB Hub,Accessories,1,34.99,S005,Debit Card
+10735,2026-07-24,C3693,USB Hub,Accessories,3,34.99,S004,Debit Card
+10736,2026-07-13,C7113,Laptop Stand,Accessories,1,39.99,S003,Debit Card
+10737,2026-05-14,C8959,Keyboard,Accessories,3,49.99,S005,Credit Card
+10738,2026-04-19,C5861,USB-C Cable,Accessories,1,14.99,S003,Credit Card
+10739,2026-03-18,C9420,Monitor,Electronics,5,249.99,S003,Credit Card
+10740,2026-04-26,C9204,External SSD,Storage,3,129.99,S004,Credit Card
+10741,2026-05-13,C7795,Laptop Stand,Accessories,5,39.99,S003,Debit Card
+10742,2026-02-02,C3142,USB Hub,Accessories,2,34.99,S005,Cash
+10743,2026-07-04,C4374,Monitor,Electronics,1,249.99,S002,Cash
+10744,2026-01-11,C6218,External SSD,Storage,2,129.99,S002,Cash
+10745,2026-06-08,C8866,USB-C Cable,Accessories,2,14.99,S001,Credit Card
+10746,2026-07-14,C8825,USB Hub,Accessories,2,34.99,S003,Mobile Payment
+10747,2026-02-21,C7876,Headphones,Electronics,4,99.99,S004,Mobile Payment
+10748,2026-05-02,C3468,USB Hub,Accessories,4,34.99,S001,Mobile Payment
+10749,2026-05-24,C7478,Laptop,Computers,4,899.99,S004,Mobile Payment
+10750,2026-04-04,C7855,Laptop Stand,Accessories,4,39.99,S003,Credit Card
+10751,2026-02-23,C3084,Keyboard,Accessories,4,49.99,S005,Credit Card
+10752,2026-04-08,C2787,Monitor,Electronics,3,249.99,S002,Cash
+10753,2026-02-09,C7202,Laptop Stand,Accessories,4,39.99,S005,Cash
+10754,2026-01-05,C7022,Laptop,Computers,2,899.99,S004,Credit Card
+10755,2026-05-01,C6283,Wireless Mouse,Accessories,1,24.99,S002,Credit Card
+10756,2026-06-09,C1578,External SSD,Storage,5,129.99,S001,Cash
+10757,2026-07-19,C1948,Headphones,Electronics,1,99.99,S003,Mobile Payment
+10758,2026-02-04,C6921,Laptop,Computers,3,899.99,S002,Cash
+10759,2026-01-21,C3761,Laptop Stand,Accessories,1,39.99,S005,Cash
+10760,2026-05-20,C4289,Laptop,Computers,1,899.99,S004,Credit Card
+10761,2026-03-07,C9776,External SSD,Storage,1,129.99,S001,Debit Card
+10762,2026-02-03,C5133,Headphones,Electronics,3,99.99,S004,Mobile Payment
+10763,2026-05-31,C6884,USB-C Cable,Accessories,4,14.99,S001,Credit Card
+10764,2026-02-15,C2161,USB-C Cable,Accessories,1,14.99,S005,Credit Card
+10765,2026-05-28,C6775,Monitor,Electronics,5,249.99,S003,Cash
+10766,2026-06-14,C6893,Laptop Stand,Accessories,5,39.99,S005,Mobile Payment
+10767,2026-05-06,C4524,Webcam,Electronics,1,79.99,S002,Debit Card
+10768,2026-04-10,C1044,External SSD,Storage,1,129.99,S001,Debit Card
+10769,2026-02-04,C8265,USB-C Cable,Accessories,1,14.99,S004,Debit Card
+10770,2026-06-16,C1394,USB-C Cable,Accessories,5,14.99,S004,Credit Card
+10771,2026-03-11,C8558,Webcam,Electronics,1,79.99,S005,Cash
+10772,2026-01-24,C2366,Laptop,Computers,3,899.99,S005,Mobile Payment
+10773,2026-03-15,C2573,External SSD,Storage,2,129.99,S002,Mobile Payment
+10774,2026-05-28,C7531,Monitor,Electronics,5,249.99,S004,Debit Card
+10775,2026-01-10,C3140,Keyboard,Accessories,1,49.99,S001,Debit Card
+10776,2026-02-18,C6512,External SSD,Storage,3,129.99,S001,Debit Card
+10777,2026-04-28,C2481,Headphones,Electronics,4,99.99,S003,Mobile Payment
+10778,2026-02-02,C2004,Laptop Stand,Accessories,1,39.99,S002,Debit Card
+10779,2026-01-14,C7565,Laptop Stand,Accessories,5,39.99,S003,Cash
+10780,2026-04-03,C3763,Webcam,Electronics,4,79.99,S003,Debit Card
+10781,2026-04-26,C4883,External SSD,Storage,5,129.99,S001,Cash
+10782,2026-06-23,C9877,Monitor,Electronics,2,249.99,S005,Credit Card
+10783,2026-03-11,C1837,Wireless Mouse,Accessories,3,24.99,S002,Mobile Payment
+10784,2026-04-14,C3517,Laptop,Computers,2,899.99,S003,Mobile Payment
+10785,2026-07-30,C4189,Webcam,Electronics,1,79.99,S003,Cash
+10786,2026-06-14,C3650,Webcam,Electronics,2,79.99,S001,Mobile Payment
+10787,2026-02-01,C6112,USB Hub,Accessories,5,34.99,S002,Mobile Payment
+10788,2026-07-15,C1849,USB Hub,Accessories,4,34.99,S003,Debit Card
+10789,2026-05-31,C3492,Laptop Stand,Accessories,5,39.99,S003,Debit Card
+10790,2026-04-30,C5673,USB Hub,Accessories,2,34.99,S004,Debit Card
+10791,2026-04-25,C5428,USB Hub,Accessories,1,34.99,S003,Cash
+10792,2026-06-04,C2096,Headphones,Electronics,4,99.99,S001,Mobile Payment
+10793,2026-01-16,C1161,Laptop,Computers,4,899.99,S002,Debit Card
+10794,2026-01-10,C1681,Laptop,Computers,4,899.99,S001,Mobile Payment
+10795,2026-06-20,C9681,Monitor,Electronics,5,249.99,S003,Credit Card
+10796,2026-07-24,C9318,Keyboard,Accessories,5,49.99,S001,Mobile Payment
+10797,2026-05-22,C6099,USB-C Cable,Accessories,3,14.99,S002,Mobile Payment
+10798,2026-03-19,C4257,Headphones,Electronics,3,99.99,S005,Cash
+10799,2026-03-22,C6512,USB-C Cable,Accessories,1,14.99,S005,Mobile Payment
+10800,2026-05-31,C9392,USB-C Cable,Accessories,2,14.99,S004,Cash
+10801,2026-07-09,C7810,USB-C Cable,Accessories,2,14.99,S001,Mobile Payment
+10802,2026-04-18,C9154,Keyboard,Accessories,1,49.99,S002,Debit Card
+10803,2026-03-03,C2841,USB-C Cable,Accessories,5,14.99,S003,Cash
+10804,2026-06-19,C4169,External SSD,Storage,2,129.99,S002,Debit Card
+10805,2026-03-21,C3968,External SSD,Storage,5,129.99,S001,Debit Card
+10806,2026-07-03,C4017,Laptop Stand,Accessories,5,39.99,S005,Debit Card
+10807,2026-06-29,C7195,Monitor,Electronics,1,249.99,S002,Debit Card
+10808,2026-07-01,C5708,USB-C Cable,Accessories,1,14.99,S004,Cash
+10809,2026-05-08,C1881,Keyboard,Accessories,2,49.99,S002,Credit Card
+10810,2026-05-27,C7251,Monitor,Electronics,1,249.99,S005,Credit Card
+10811,2026-02-23,C6461,Laptop Stand,Accessories,4,39.99,S003,Cash
+10812,2026-04-21,C4399,USB-C Cable,Accessories,5,14.99,S005,Credit Card
+10813,2026-04-12,C6061,Monitor,Electronics,1,249.99,S003,Debit Card
+10814,2026-05-17,C5411,USB-C Cable,Accessories,4,14.99,S004,Credit Card
+10815,2026-04-11,C6656,USB Hub,Accessories,4,34.99,S005,Mobile Payment
+10816,2026-04-21,C9982,USB Hub,Accessories,3,34.99,S005,Mobile Payment
+10817,2026-02-18,C3772,Laptop Stand,Accessories,4,39.99,S003,Mobile Payment
+10818,2026-03-27,C6211,Webcam,Electronics,2,79.99,S004,Credit Card
+10819,2026-02-10,C6202,Keyboard,Accessories,4,49.99,S004,Credit Card
+10820,2026-04-21,C7643,Webcam,Electronics,1,79.99,S005,Debit Card
+10821,2026-05-20,C7223,Webcam,Electronics,4,79.99,S003,Debit Card
+10822,2026-01-16,C9519,Headphones,Electronics,2,99.99,S001,Cash
+10823,2026-01-29,C3791,Laptop Stand,Accessories,2,39.99,S005,Debit Card
+10824,2026-05-30,C4154,Headphones,Electronics,3,99.99,S001,Cash
+10825,2026-06-21,C5910,External SSD,Storage,4,129.99,S005,Credit Card
+10826,2026-06-07,C1176,USB Hub,Accessories,1,34.99,S005,Cash
+10827,2026-01-28,C8287,External SSD,Storage,4,129.99,S004,Mobile Payment
+10828,2026-01-22,C5606,USB Hub,Accessories,4,34.99,S001,Cash
+10829,2026-02-26,C5799,Laptop,Computers,5,899.99,S001,Mobile Payment
+10830,2026-03-25,C2004,Keyboard,Accessories,5,49.99,S002,Cash
+10831,2026-04-16,C5929,Keyboard,Accessories,5,49.99,S003,Debit Card
+10832,2026-04-01,C9662,USB Hub,Accessories,2,34.99,S001,Debit Card
+10833,2026-07-15,C5116,Monitor,Electronics,5,249.99,S002,Credit Card
+10834,2026-02-07,C3302,Webcam,Electronics,3,79.99,S003,Credit Card
+10835,2026-05-03,C6312,USB Hub,Accessories,1,34.99,S003,Mobile Payment
+10836,2026-04-20,C6169,Laptop Stand,Accessories,2,39.99,S004,Mobile Payment
+10837,2026-04-24,C1621,Monitor,Electronics,3,249.99,S004,Credit Card
+10838,2026-06-28,C1606,Laptop Stand,Accessories,2,39.99,S003,Debit Card
+10839,2026-04-20,C4541,Webcam,Electronics,5,79.99,S002,Debit Card
+10840,2026-05-15,C4128,USB Hub,Accessories,3,34.99,S001,Mobile Payment
+10841,2026-04-04,C4647,External SSD,Storage,2,129.99,S002,Credit Card
+10842,2026-02-26,C9347,Laptop Stand,Accessories,3,39.99,S001,Mobile Payment
+10843,2026-02-11,C2220,Webcam,Electronics,5,79.99,S003,Cash
+10844,2026-02-07,C4384,Headphones,Electronics,3,99.99,S005,Credit Card
+10845,2026-06-15,C2653,USB-C Cable,Accessories,2,14.99,S003,Cash
+10846,2026-04-16,C7600,Webcam,Electronics,4,79.99,S005,Credit Card
+10847,2026-07-26,C1764,Wireless Mouse,Accessories,1,24.99,S004,Credit Card
+10848,2026-03-26,C1817,Laptop Stand,Accessories,1,39.99,S003,Credit Card
+10849,2026-06-24,C3943,USB Hub,Accessories,4,34.99,S005,Debit Card
+10850,2026-07-18,C4214,Wireless Mouse,Accessories,2,24.99,S003,Cash
+10851,2026-05-14,C4229,Laptop Stand,Accessories,3,39.99,S002,Credit Card
+10852,2026-02-28,C8123,Laptop,Computers,4,899.99,S002,Cash
+10853,2026-04-02,C1611,USB-C Cable,Accessories,1,14.99,S002,Debit Card
+10854,2026-04-08,C3074,Keyboard,Accessories,2,49.99,S004,Credit Card
+10855,2026-07-23,C8105,Headphones,Electronics,2,99.99,S001,Debit Card
+10856,2026-07-09,C2420,External SSD,Storage,4,129.99,S001,Debit Card
+10857,2026-05-23,C2291,Headphones,Electronics,3,99.99,S003,Mobile Payment
+10858,2026-01-28,C7941,Laptop,Computers,1,899.99,S005,Cash
+10859,2026-06-18,C4021,USB-C Cable,Accessories,1,14.99,S002,Debit Card
+10860,2026-01-06,C4213,Wireless Mouse,Accessories,5,24.99,S004,Credit Card
+10861,2026-04-06,C6440,USB-C Cable,Accessories,4,14.99,S004,Mobile Payment
+10862,2026-02-14,C1782,Laptop,Computers,1,899.99,S004,Credit Card
+10863,2026-05-08,C3925,Laptop,Computers,3,899.99,S003,Credit Card
+10864,2026-01-25,C1104,Laptop,Computers,4,899.99,S001,Debit Card
+10865,2026-06-13,C7641,USB Hub,Accessories,4,34.99,S005,Credit Card
+10866,2026-06-13,C4143,USB-C Cable,Accessories,4,14.99,S003,Debit Card
+10867,2026-01-05,C5751,Laptop,Computers,2,899.99,S001,Credit Card
+10868,2026-01-11,C5129,USB Hub,Accessories,3,34.99,S002,Credit Card
+10869,2026-05-03,C4398,Webcam,Electronics,3,79.99,S004,Debit Card
+10870,2026-02-28,C5722,Headphones,Electronics,1,99.99,S001,Mobile Payment
+10871,2026-06-26,C5789,Laptop Stand,Accessories,4,39.99,S001,Mobile Payment
+10872,2026-03-25,C8175,Laptop Stand,Accessories,1,39.99,S005,Credit Card
+10873,2026-03-13,C7404,Webcam,Electronics,1,79.99,S004,Mobile Payment
+10874,2026-07-20,C7002,External SSD,Storage,5,129.99,S001,Credit Card
+10875,2026-04-24,C6541,USB-C Cable,Accessories,2,14.99,S001,Cash
+10876,2026-02-17,C9610,Monitor,Electronics,4,249.99,S003,Debit Card
+10877,2026-01-23,C7382,Monitor,Electronics,2,249.99,S003,Debit Card
+10878,2026-03-26,C1678,Laptop Stand,Accessories,2,39.99,S002,Debit Card
+10879,2026-01-30,C2530,Webcam,Electronics,1,79.99,S003,Debit Card
+10880,2026-03-21,C3786,Keyboard,Accessories,4,49.99,S005,Debit Card
+10881,2026-03-09,C8946,USB-C Cable,Accessories,4,14.99,S002,Credit Card
+10882,2026-06-11,C4498,Wireless Mouse,Accessories,2,24.99,S004,Cash
+10883,2026-04-29,C5217,Keyboard,Accessories,5,49.99,S003,Mobile Payment
+10884,2026-06-21,C6251,Webcam,Electronics,1,79.99,S004,Mobile Payment
+10885,2026-01-23,C2785,Laptop Stand,Accessories,2,39.99,S004,Mobile Payment
+10886,2026-01-22,C3584,Laptop,Computers,2,899.99,S004,Cash
+10887,2026-05-26,C9691,USB Hub,Accessories,5,34.99,S001,Debit Card
+10888,2026-03-27,C4360,Webcam,Electronics,3,79.99,S003,Credit Card
+10889,2026-07-04,C5241,USB-C Cable,Accessories,5,14.99,S001,Cash
+10890,2026-01-22,C3250,Monitor,Electronics,1,249.99,S003,Mobile Payment
+10891,2026-03-07,C1232,Webcam,Electronics,4,79.99,S004,Cash
+10892,2026-04-06,C9844,Webcam,Electronics,2,79.99,S001,Mobile Payment
+10893,2026-06-13,C7191,Monitor,Electronics,2,249.99,S001,Credit Card
+10894,2026-03-15,C7103,Monitor,Electronics,5,249.99,S001,Debit Card
+10895,2026-02-12,C8567,Monitor,Electronics,2,249.99,S004,Mobile Payment
+10896,2026-01-08,C1627,Monitor,Electronics,5,249.99,S002,Credit Card
+10897,2026-05-13,C8600,Wireless Mouse,Accessories,2,24.99,S002,Mobile Payment
+10898,2026-03-11,C3743,USB Hub,Accessories,2,34.99,S005,Cash
+10899,2026-03-26,C5015,Monitor,Electronics,3,249.99,S003,Debit Card
+10900,2026-04-01,C9325,Headphones,Electronics,3,99.99,S004,Mobile Payment
+10901,2026-03-13,C9731,Webcam,Electronics,5,79.99,S004,Credit Card
+10902,2026-02-17,C9548,Webcam,Electronics,5,79.99,S003,Credit Card
+10903,2026-02-14,C4744,Wireless Mouse,Accessories,5,24.99,S001,Mobile Payment
+10904,2026-07-14,C9781,Webcam,Electronics,2,79.99,S001,Cash
+10905,2026-02-09,C4559,Keyboard,Accessories,5,49.99,S005,Debit Card
+10906,2026-04-12,C8029,Webcam,Electronics,2,79.99,S005,Cash
+10907,2026-03-23,C9421,External SSD,Storage,3,129.99,S003,Debit Card
+10908,2026-02-18,C9357,Keyboard,Accessories,1,49.99,S005,Mobile Payment
+10909,2026-06-28,C8087,Keyboard,Accessories,4,49.99,S005,Mobile Payment
+10910,2026-05-30,C8992,Monitor,Electronics,5,249.99,S001,Credit Card
+10911,2026-07-29,C4439,External SSD,Storage,1,129.99,S001,Mobile Payment
+10912,2026-04-20,C6032,Monitor,Electronics,5,249.99,S004,Debit Card
+10913,2026-05-10,C1488,External SSD,Storage,2,129.99,S003,Mobile Payment
+10914,2026-04-22,C5958,Laptop,Computers,3,899.99,S005,Mobile Payment
+10915,2026-03-28,C8056,USB Hub,Accessories,1,34.99,S004,Debit Card
+10916,2026-07-13,C8338,Laptop Stand,Accessories,1,39.99,S002,Credit Card
+10917,2026-03-27,C9256,Monitor,Electronics,2,249.99,S001,Credit Card
+10918,2026-05-07,C6608,Headphones,Electronics,3,99.99,S002,Cash
+10919,2026-04-23,C6822,External SSD,Storage,1,129.99,S005,Credit Card
+10920,2026-05-23,C5694,Headphones,Electronics,4,99.99,S004,Debit Card
+10921,2026-06-14,C9320,Wireless Mouse,Accessories,2,24.99,S001,Credit Card
+10922,2026-07-25,C6944,USB Hub,Accessories,4,34.99,S005,Debit Card
+10923,2026-02-06,C3598,Wireless Mouse,Accessories,5,24.99,S005,Mobile Payment
+10924,2026-07-15,C3074,External SSD,Storage,1,129.99,S002,Credit Card
+10925,2026-03-24,C7349,USB-C Cable,Accessories,4,14.99,S005,Cash
+10926,2026-03-01,C8980,Laptop,Computers,2,899.99,S001,Mobile Payment
+10927,2026-01-22,C9971,Laptop,Computers,3,899.99,S003,Credit Card
+10928,2026-04-12,C3754,Headphones,Electronics,1,99.99,S004,Cash
+10929,2026-04-15,C3045,Keyboard,Accessories,2,49.99,S005,Credit Card
+10930,2026-05-28,C5550,Webcam,Electronics,4,79.99,S004,Debit Card
+10931,2026-02-22,C4753,USB Hub,Accessories,2,34.99,S002,Mobile Payment
+10932,2026-01-08,C4034,Webcam,Electronics,1,79.99,S003,Cash
+10933,2026-02-16,C2042,Laptop,Computers,1,899.99,S002,Cash
+10934,2026-07-19,C6984,Keyboard,Accessories,5,49.99,S002,Credit Card
+10935,2026-01-26,C9088,USB Hub,Accessories,2,34.99,S002,Mobile Payment
+10936,2026-04-11,C5085,Laptop Stand,Accessories,1,39.99,S001,Cash
+10937,2026-06-01,C9623,Webcam,Electronics,4,79.99,S003,Cash
+10938,2026-01-14,C8450,USB Hub,Accessories,3,34.99,S002,Mobile Payment
+10939,2026-04-23,C1172,USB-C Cable,Accessories,3,14.99,S003,Cash
+10940,2026-01-27,C2813,USB Hub,Accessories,3,34.99,S002,Mobile Payment
+10941,2026-07-04,C9667,Wireless Mouse,Accessories,1,24.99,S004,Mobile Payment
+10942,2026-06-23,C1594,Webcam,Electronics,5,79.99,S001,Cash
+10943,2026-02-26,C3775,Headphones,Electronics,2,99.99,S003,Debit Card
+10944,2026-02-11,C4095,Keyboard,Accessories,3,49.99,S005,Credit Card
+10945,2026-07-10,C6561,USB-C Cable,Accessories,4,14.99,S004,Cash
+10946,2026-05-08,C3925,Webcam,Electronics,4,79.99,S004,Mobile Payment
+10947,2026-03-31,C4403,Headphones,Electronics,2,99.99,S002,Mobile Payment
+10948,2026-06-26,C4762,USB-C Cable,Accessories,3,14.99,S003,Debit Card
+10949,2026-01-25,C4716,USB Hub,Accessories,2,34.99,S001,Debit Card
+10950,2026-04-05,C7796,Laptop Stand,Accessories,3,39.99,S005,Credit Card
+10951,2026-04-10,C6007,Webcam,Electronics,4,79.99,S003,Mobile Payment
+10952,2026-05-08,C6749,Keyboard,Accessories,5,49.99,S004,Cash
+10953,2026-03-17,C8314,USB Hub,Accessories,2,34.99,S003,Debit Card
+10954,2026-04-24,C3085,Keyboard,Accessories,3,49.99,S001,Mobile Payment
+10955,2026-07-16,C9912,USB Hub,Accessories,5,34.99,S003,Credit Card
+10956,2026-04-20,C2612,Wireless Mouse,Accessories,1,24.99,S002,Cash
+10957,2026-06-07,C1733,Laptop,Computers,3,899.99,S001,Credit Card
+10958,2026-01-11,C1065,USB Hub,Accessories,5,34.99,S001,Credit Card
+10959,2026-04-05,C4854,Laptop Stand,Accessories,1,39.99,S002,Debit Card
+10960,2026-02-27,C3702,Keyboard,Accessories,5,49.99,S001,Cash
+10961,2026-01-05,C1071,Monitor,Electronics,5,249.99,S003,Credit Card
+10962,2026-07-06,C1644,Keyboard,Accessories,3,49.99,S003,Credit Card
+10963,2026-05-10,C7483,Headphones,Electronics,5,99.99,S003,Mobile Payment
+10964,2026-06-29,C5825,Webcam,Electronics,1,79.99,S001,Credit Card
+10965,2026-03-08,C6403,Monitor,Electronics,2,249.99,S005,Debit Card
+10966,2026-05-09,C5863,USB Hub,Accessories,3,34.99,S003,Credit Card
+10967,2026-02-11,C9341,Laptop,Computers,3,899.99,S003,Credit Card
+10968,2026-06-20,C8550,Wireless Mouse,Accessories,1,24.99,S004,Mobile Payment
+10969,2026-03-23,C4387,Laptop Stand,Accessories,1,39.99,S004,Debit Card
+10970,2026-03-09,C2420,Headphones,Electronics,4,99.99,S002,Mobile Payment
+10971,2026-06-21,C2590,External SSD,Storage,4,129.99,S005,Debit Card
+10972,2026-03-15,C1584,Laptop Stand,Accessories,1,39.99,S001,Cash
+10973,2026-06-26,C4573,Monitor,Electronics,3,249.99,S004,Credit Card
+10974,2026-06-20,C1934,USB-C Cable,Accessories,5,14.99,S005,Debit Card
+10975,2026-04-20,C8305,Webcam,Electronics,4,79.99,S001,Debit Card
+10976,2026-02-12,C2448,Laptop Stand,Accessories,1,39.99,S003,Debit Card
+10977,2026-04-06,C9669,USB Hub,Accessories,4,34.99,S004,Mobile Payment
+10978,2026-06-26,C6731,USB Hub,Accessories,2,34.99,S004,Credit Card
+10979,2026-01-05,C8054,USB-C Cable,Accessories,1,14.99,S003,Mobile Payment
+10980,2026-01-29,C4336,External SSD,Storage,4,129.99,S002,Cash
+10981,2026-05-19,C1978,USB-C Cable,Accessories,2,14.99,S003,Debit Card
+10982,2026-03-23,C6422,Webcam,Electronics,1,79.99,S001,Credit Card
+10983,2026-01-28,C2364,Keyboard,Accessories,5,49.99,S002,Credit Card
+10984,2026-05-28,C7689,USB-C Cable,Accessories,2,14.99,S003,Mobile Payment
+10985,2026-02-12,C7356,Wireless Mouse,Accessories,1,24.99,S004,Cash
+10986,2026-01-15,C1918,Keyboard,Accessories,2,49.99,S002,Debit Card
+10987,2026-07-13,C8102,External SSD,Storage,5,129.99,S003,Debit Card
+10988,2026-05-14,C5840,External SSD,Storage,2,129.99,S001,Credit Card
+10989,2026-07-08,C1863,USB-C Cable,Accessories,5,14.99,S004,Debit Card
+10990,2026-01-03,C1086,Headphones,Electronics,4,99.99,S003,Debit Card
+10991,2026-01-09,C4579,USB Hub,Accessories,1,34.99,S003,Credit Card
+10992,2026-03-24,C8975,External SSD,Storage,3,129.99,S001,Cash
+10993,2026-04-27,C6748,USB Hub,Accessories,4,34.99,S001,Credit Card
+10994,2026-07-11,C8227,Webcam,Electronics,3,79.99,S002,Mobile Payment
+10995,2026-07-12,C4216,USB-C Cable,Accessories,4,14.99,S001,Mobile Payment
+10996,2026-01-25,C3855,Keyboard,Accessories,5,49.99,S002,Debit Card
+10997,2026-01-16,C3871,USB Hub,Accessories,3,34.99,S002,Cash
+10998,2026-04-25,C5706,Webcam,Electronics,1,79.99,S005,Cash
+10999,2026-06-18,C8749,Webcam,Electronics,3,79.99,S004,Debit Card
+11000,2026-06-06,C7716,USB-C Cable,Accessories,4,14.99,S001,Cash
