@@ -8,6 +8,6 @@ CREATE TABLE IF NOT EXISTS silver.sales_clean (
     store_id VARCHAR(20) NOT NULL,
     total_amount NUMERIC(12,2) NOT NULL CHECK (total_amount >= 0),
     source_file VARCHAR(255) NOT NULL,
-    bronze_load_timestamp TIMESTAMP NOT NULL,
+    load_timestamp TIMESTAMP NOT NULL,
     silver_load_timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
