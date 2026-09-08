@@ -43,6 +43,8 @@ stores = [
     "S005"
 ]
 
+customers = [f"C{i:04d}" for i in range(1, 2001)]
+
 product_prices = {
     "Laptop": 899.99,
     "Wireless Mouse": 24.99,
@@ -58,7 +60,7 @@ product_prices = {
 
 sales_data = []
 
-for i in range(1000):
+for i in range(50000):
 
     product = random.choice(products)
 
@@ -66,15 +68,18 @@ for i in range(1000):
     price = product_prices[product]
 
     quantity = random.randint(1, 5)
-    store_id = random.choice(stores)
+    store_id = random.choices(
+    stores,
+    weights=[30, 25, 20, 15, 10],
+    k=1
+)[0]
     payment_method = random.choice(payment_methods)
 
-    customer_id = f"C{random.randint(1000, 9999)}"
-
+    customer_id = random.choice(customers)
     sale_id = 10001 + i
 
-    start_date = datetime(2026, 1, 1)
-    end_date = datetime(2026, 7, 31)
+    start_date = datetime(2024, 1, 1)
+    end_date = datetime(2025, 12, 31)
     days_between = (end_date - start_date).days
     random_days = random.randint(0, days_between)
     sale_date = start_date + timedelta(days=random_days)
