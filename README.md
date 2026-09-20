@@ -1,6 +1,6 @@
 # Retail Data Warehouse
 
-A hands-on data engineering project that demonstrates the design and implementation of a retail data warehouse using a **Medallion Architecture**.
+A hands-on data engineering, analytics, and machine learning project that demonstrates the design and implementation of a retail data warehouse using a **Medallion Architecture**.
 
 The project processes retail sales data through three data layers:
 
@@ -8,7 +8,9 @@ The project processes retail sales data through three data layers:
 - **Silver** — cleans, validates, and enriches the data
 - **Gold** — creates business-level aggregations for analytics and reporting
 
-The pipeline uses **Python, Pandas, PostgreSQL, psycopg2, Docker, and pgAdmin** to move data from raw source files to analytics-ready datasets.
+The original data engineering pipeline was expanded in Version 2 to support **50,000 sales transactions across 2,000 customers**, exploratory data analysis, RFM customer segmentation, and KMeans machine learning.
+
+The project uses **Python, Pandas, PostgreSQL, Docker, Jupyter Notebook, scikit-learn, and Matplotlib** to move from raw transactional data to analytics-ready datasets, customer segmentation, and data-driven business insights.
 
 ## Architecture
 
@@ -34,6 +36,9 @@ Validated Silver data is transformed into business-level summaries and aggregati
 |---|---|
 | **Python** | ETL pipeline development and data processing |
 | **Pandas** | Data extraction, transformation, validation, and aggregation |
+| **Jupyter Notebook** | Exploratory data analysis, RFM analysis, and machine learning experimentation |
+| **scikit-learn** | Feature standardization and KMeans customer clustering |
+| **Matplotlib** | Data analysis and machine learning visualizations |
 | **PostgreSQL** | Relational database for the Bronze, Silver, and Gold layers |
 | **psycopg2** | Python-to-PostgreSQL database connectivity |
 | **Docker** | Containerized PostgreSQL and pgAdmin environment |
@@ -43,20 +48,27 @@ Validated Silver data is transformed into business-level summaries and aggregati
 
 ## Project Structure
 
-The repository separates source data, Python ETL logic, SQL scripts, documentation, and supporting assets into dedicated directories.
+The repository separates source data, Python ETL logic, SQL scripts, documentation, analytics notebooks, machine learning workflows, and supporting assets into dedicated directories.
 
-```
+```text
 retail-data-warehouse/
 │
 ├── data/
-│   ├── raw/              # Source retail sales data
-│   ├── bronze/           # Bronze-layer data
-│   ├── silver/           # Silver-layer data
-│   └── gold/             # Gold-layer data
+│   ├── raw/                         # Source retail sales data
+│   ├── bronze/                      # Bronze-layer data
+│   ├── silver/                      # Silver-layer data
+│   ├── gold/                        # Gold-layer data
+│   └── notebooks/                   # Analytics and machine learning notebooks
+│       ├── retail_sales_eda.ipynb
+│       └── customer_clustering.ipynb
 │
-├── diagrams/             # Architecture and data-flow diagrams
-├── docs/                 # Project documentation
-├── images/               # Images used for documentation
+├── diagrams/                        # Architecture and data-flow diagrams
+├── docs/                            # Project documentation
+├── images/                          # Images used for documentation
+│   └── 11_machine_learning/
+│       ├── elbow_method.png
+│       ├── kmeans_cluster_profiles.png
+│       └── rfm_vs_kmeans.png
 │
 ├── python/
 │   ├── config/
@@ -232,6 +244,9 @@ The project currently uses:
 - `pandas`
 - `psycopg2-binary`
 - `python-dotenv`
+- `jupyter`
+- `scikit-learn`
+- `matplotlib`
 
 ### 4. Start the Docker Environment
 
@@ -351,3 +366,90 @@ The Gold pipeline aggregates the 10 Silver transactions into **6 product-level s
 The final Gold dataset demonstrates the progression from detailed transactional data to analytics-ready business metrics.
 
 **10 Raw Records → 10 Clean Records → 6 Product Summaries**
+
+---
+
+# Retail Data Warehouse V2
+
+Version 2 expands the original data engineering project into a larger analytics and machine learning workflow.
+
+## Dataset Expansion
+
+Version 2 expands the synthetic retail dataset to **50,000 sales transactions** across **2,000 customers**, creating a larger dataset for exploratory analysis, customer segmentation, and machine learning.
+
+## Exploratory Data Analysis
+
+Exploratory Data Analysis (EDA) was performed in Jupyter Notebook to understand the structure, quality, and business patterns within the expanded retail dataset.
+
+The analysis included:
+
+- Descriptive statistics
+- Sales trends over time
+- Product and store performance
+- Payment method analysis
+- Customer purchase distribution
+- Order size analysis
+- Daily and weekly sales trends
+
+## RFM Customer Analysis
+
+RFM analysis was used to evaluate customer purchasing behavior across three dimensions:
+
+- **Recency** — how many days have passed since the customer's most recent purchase
+- **Frequency** — how often the customer made purchases
+- **Monetary** — the total amount spent by the customer
+
+The 2,000 customers were scored using these RFM metrics and assigned to four rule-based business segments:
+
+- **At Risk**
+- **Developing**
+- **Loyal**
+- **Champions**
+
+## Machine Learning — KMeans Customer Clustering
+
+Unsupervised machine learning was used to identify natural customer groups based on **Recency, Frequency, and Monetary behavior**.
+
+The RFM features were standardized using `StandardScaler` so that each feature contributed on a comparable scale.
+
+The Elbow Method was then used to evaluate different values of K. Based on the resulting inertia curve, **K = 3** was selected as a reasonable number of customer clusters.
+
+KMeans identified three behavioral groups:
+
+- **At-Risk / Inactive** — customers with high recency, lower purchase frequency, and below-average spending
+- **High-Value** — customers with recent purchases, high purchase frequency, and the highest monetary value
+- **Moderate** — customers with relatively recent purchases but lower frequency and monetary value than the High-Value group
+
+## RFM Segmentation vs KMeans Clustering
+
+The rule-based RFM segmentation was compared with the KMeans clusters to determine how closely the business-defined customer groups aligned with patterns discovered by machine learning.
+
+Key findings:
+
+- **Champions:** 432 of 442 customers were classified by KMeans as High-Value.
+- **At Risk:** None of the 426 At Risk customers were classified as High-Value.
+- **Developing:** 417 of 549 customers were classified as Moderate.
+- **Loyal:** Customers were more divided, with 310 classified as High-Value and 257 as Moderate.
+
+The comparison shows strong agreement for the highest-value customers, while the Developing and Loyal segments show greater overlap between behavioral groups.
+
+## Machine Learning Visualizations
+
+### Elbow Method
+
+The Elbow Method was used to evaluate the relationship between the number of clusters and model inertia.
+
+![Elbow Method](images/11_machine_learning/elbow_method.png)
+
+### KMeans Cluster Profiles
+
+The standardized cluster profiles show how Recency, Frequency, and Monetary behavior differ across the three customer groups.
+
+![KMeans Cluster Profiles](images/11_machine_learning/kmeans_cluster_profiles.png)
+
+### RFM Segments vs KMeans Clusters
+
+The rule-based RFM segments were compared with the KMeans clusters to evaluate how business-defined customer categories align with data-driven behavioral patterns.
+
+![RFM Segments vs KMeans Clusters](images/11_machine_learning/rfm_vs_kmeans.png)
+
